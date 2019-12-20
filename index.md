@@ -1,12 +1,12 @@
 ### Main information
-Ye Xinhai 叶昕海
-Ph.D student in Institute of Insect Sciences, Zhejiang University.
-yexinhai@zju.edu.cn
+- Ye Xinhai 叶昕海
+- Ph.D student in Institute of Insect Sciences, Zhejiang University.
+- yexinhai@zju.edu.cn
 
 ### Education
-2017.09-Now	Ph.D student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
-2016.09-2017.06	Master student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
-2012.09-2016.06	B.A.(Agr.)(College of Agriculture), B.A. (Art)(College of Foreign Studies), South China Agriculture University, Guangzhou, China. Advised by Prof. Zaifu Xu
+- 2017.09-Now	Ph.D student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
+- 2016.09-2017.06	Master student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
+- 2012.09-2016.06	B.A.(Agr.)(College of Agriculture), B.A. (Art)(College of Foreign Studies), South China Agriculture University, Guangzhou, China. Advised by Prof. Zaifu Xu
 
 ### Areas of research interest
 - Insect genetics and genomics (Parasitoid wasp genomics)
