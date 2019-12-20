@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+### Main information
+Ye Xinhai 叶昕海
+Ph.D student in Institute of Insect Sciences, Zhejiang University.
+yexinhai@zju.edu.cn
 
-You can use the [editor on GitHub](https://github.com/yexinhai/yexinhai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
+2017.09-Now	Ph.D student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
+2016.09-2017.06	Master student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
+2012.09-2016.06	B.A.(Agr.)(College of Agriculture), B.A. (Art)(College of Foreign Studies), South China Agriculture University, Guangzhou, China. Advised by Prof. Zaifu Xu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Areas of research interest
+- Insect genetics and genomics (Parasitoid wasp genomics)
+- Insect non-coding RNAs
+- Bioinformatics
 
-### Markdown
+### Publications
+**2019**
+1. **Xinhai Ye #(#co-first author)**, Le Xu#, Xiang Li#, Kang He#, Hongxia Hua, Zhenghong Cao, Jiadan Xu, Wanyi Ye, Jiao Zhang, Zhuting Yuan, Fei Li. miR-34 modulates wing polyphenism in planthopper. ***PLOS Genetics***, 2019, 15(6): e1008235.doi: 10.1371/journal.pgen.1008235.
+2. Ziwen Teng, Huizi Wu, **Xinhai Ye**, Shijiao Xiong, Gang Xu, Fang Wang, Qi Fang, and Gongyin Ye. An ovarian protein involved in passive avoidance of an endoparasitoid to evade its host immune response. ***Journal of Proteome Research***, 2019, 18, 2695-2705.doi: 10.1021/acs.jproteome.8b00824.
+3. Mengyao Chen, Wanyi Ye, Huamei Xiao, Meizhen Li, Zhenghong Cao, **Xinhai Ye**, Xianxin Zhao, Kang He, Fei Li. lncRNAs are potentially involved in the immune interaction between small brown planthopper and rice stipe virus. ***Journal of Integrative Agriculture***, 2019, 18(12): 2814-2822. doi: 10.1016/S2095-3119(19)62569-4
+4. Chuanlin Yin, **Xinhai Ye**, Mengyao Chen, Yang Mei, Huamei Xiao, Fei Li. Evolution analysis of cytochrome P450 gene families in parasitoid wasps (in Chinese). ***Chinese Journal of Biological Control***, 2019, 35(3): 335-342.
+5. **Xinhai Ye**, Yi Yang, Yang Mei, Huamei Xiao, Fei Li. The genome annotation and comparative genomics analysis of Spodoptera frugiperda (in Chinese). ***Journal of Environmental Entomology***, 2019, 41(4), 706-717.
+6. Ying Liu, Huamei Xiao, Yang Mei, Yi Yang, **Xinhai Ye**, Andong Chen, Fei Li. Evolutionary analysis of chemoreception related gene families of Spodoptera frugiperda (in Chinese). ***Journal of Environmental Entomology***, 2019, 41(4), 718-726.
+7. Yang Mei, Yi Yang, **Xinhai Ye**, Huamei Xiao, Fei Li. Evolutionary analysis of detoxification gene families of Spodoptera frugiperda (in Chinese). ***Journal of Environmental Entomology***, 2019, 41(4), 727-735.
+8. Jiale Wang, Hongxia Jin, Lei Yang, **Xinhai Ye**, Shan Xiao, Qisheng Song, David Stanley, Gongyin Ye, Qi Fang. Genome‐wide identification and analysis of genes encoding cuticular proteins in the endoparasitoid wasp Pteromalus puparum (Hymenoptera: Pteromalidae). ***Archives of Insect Biochemistry and Physiology***, 2019, e21628. doi: 10.1002/arch.21628.
+9. Shan Xiao, Beibei Wang, Kai Li, Shijiao Xiong, **Xinhai Ye**, Jiale Wang, Jiao Zhang, Zhichao Yan, Fang Wang, Qisheng Song, David W. Stanley, Gongyin Ye, Qi Fang. Identification and characterization of miRNAs in an endoparasitoid wasp, Pteromalus puparum. ***Archives of Insect Biochemistry and Physiology***, 2019, e21633. doi: 10.1002/arch.21633.
+10. Shijiao Xiong, Kaili Yu, **Xinhai Ye**, Qi Fang, Yi Deng, Shan Xiao, Lei Yang, Beibei Wang, Fei Wang, Zhichao Yan, Fang Wang, Qisheng Song, David W. Stanley, Gongyin Ye. Genes acting in longevity‐related pathways in the endoparasitoid, Pteromalus puparum. ***Archives of Insect Biochemistry and Physiology***, 2019, e21635. doi: 10.1002/arch.21635.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**2018**
+1. Longfei Chen, Kun Lang, Shoudong Bi, Jiapeng Luo, Feiling Liu, **Xinhai Ye**, Jiadan Xu, Kang He, Fei Li, Gongyin Ye, Xuexin Chen. WaspBase: a genomic resource for the interactions among parasitic wasps, insect hosts and plants. **Database**, 2018, 1-9.
 
-```markdown
-Syntax highlighted code block
+**2017**
+1. **Xinhai Ye #(#co-first author)**, Liwen Yang#, Qi Fang, Fei Li. Two acetylcholinesterase genes in Bombyx mori have different functions in motor ability and development. ***Scientific Reports***, 2017,7:4985.
+2. **Xinhai Ye**, Cornelis van Achterberg, Qi Yue, Zaifu Xu. A review of the Chinese Leucospidae (Hymenoptera, Chalcidoidea). ***Zookeys***, 2017, 651: 107-157.
+3. Zhichao Yan, **Xinhai Ye**, Beibei Wang, Qi Fang, Gongyin Ye. Research advances on composition, function and evolution of venom proteins in parasitoid wasps (in Chinese). ***Chinese Journal of Biological Control***, 2017, 33(1): 1-10.
 
-# Header 1
-## Header 2
-### Header 3
+**2016**
+1. Qi Fang, Beibei Wang, **Xinhai Ye**, Fei Wang, Gongyin Ye. Venom of parasitoid Pteromalus puparum impairs host humoral antimicrobial activity by decreasing host cecropin and lysozyme gene expression. ***Toxins***, 2016, 8: 52.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yexinhai/yexinhai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**2015**
+1. Yu Zhu, **Xinhai Ye**, Yang Liu, Zhichao Yan, David W. Stanley, Gongyin Ye, Qi Fang. A venom gland extracellular chitin- binding-like protein from pupal endoparasitoid wasps, Pteromalus puparum, selectively binds chitin. ***Toxins***, 2015, 7: 5098-5113.
