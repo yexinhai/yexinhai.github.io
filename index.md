@@ -4,6 +4,7 @@
 - yexinhai@zju.edu.cn
 
 ### Education
+- 2020.01-Now Visiting student, Department of Biology, University of Rochester, Rochester, NY. Advised by Prof. John H. Werren
 - 2017.09-Now	Ph.D student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
 - 2016.09-2017.06	Master student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
 - 2012.09-2016.06	B.A.(Agr.)(College of Agriculture), B.A. (Art)(College of Foreign Studies), South China Agriculture University, Guangzhou, China. Advised by Prof. Zaifu Xu
@@ -50,3 +51,6 @@
 - 2018.08	The First Prize for Oral Presentation in 2018 Annual Academic Conference of Chinese Society for Insects, Chengdu, China
 - 2017.10	The Second Prize for Oral Presentation in 2017 Annual Academic Conference of Chinese Society for Insects, Xiamen, China
 - 2017.07	Best poster in the 3rd International Conference of Insect Genomics (ICIG) and 6th International Symposium on Insect Physiology, Biochemistry and Molecular Biology (IPBMB), Hangzhou, China
+
+### Grant
+“Academic Star” Program for Ph.D Student in Zhejiang University (2018-2020), 40,000 RMB.
