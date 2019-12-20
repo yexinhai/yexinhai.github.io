@@ -39,3 +39,14 @@
 
 **2015**
 1. Yu Zhu, **Xinhai Ye**, Yang Liu, Zhichao Yan, David W. Stanley, Gongyin Ye, Qi Fang. A venom gland extracellular chitin- binding-like protein from pupal endoparasitoid wasps, Pteromalus puparum, selectively binds chitin. ***Toxins***, 2015, 7: 5098-5113.
+
+### Honors & awards
+- 2018.12	“Academic Star” Program for Ph.D Student in Zhejiang University, Zhejiang University, China
+- 2019.06	Chinese Government Scholarship from China Scholarship Council (CSC) , Zhejiang University, China
+- 2018.11	Tang Lixin Scholarship, Zhejiang University, China
+- 2017.10	National Scholarship for Doctoral Students, Zhejiang University, China
+- 2018.11	Excellent Individuals in Social Practice of Zhejiang University, Zhejiang University, China
+- 2019.07	Best Student Oral Presentation in the 4th International Conference of Insect Genomics (ICIG) and 7th International Symposium on Insect Physiology, Biochemistry and Molecular Biology (IPBMB), Chongqing, China
+- 2018.08	The First Prize for Oral Presentation in 2018 Annual Academic Conference of Chinese Society for Insects, Chengdu, China
+- 2017.10	The Second Prize for Oral Presentation in 2017 Annual Academic Conference of Chinese Society for Insects, Xiamen, China
+- 2017.07	Best poster in the 3rd International Conference of Insect Genomics (ICIG) and 6th International Symposium on Insect Physiology, Biochemistry and Molecular Biology (IPBMB), Hangzhou, China
