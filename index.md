@@ -18,6 +18,9 @@
 - Entomology
 
 ### Publications
+**2020**
+1. Huamei Xiao#, **Xinhai Ye #(#co-first author)**, Hongxing Xu#, Yang Mei#, Yi Yang, Xi Chen, Yajun Yang, Tao Liu, Yongyi Yu, Weifei Yang, Zhongxian Lu, Fei Li. The genetic adaptations of fall armyworm Spodoptera frugiperda facilitated its rapid global dispersal and invasion. ***Molecular Ecology Resources***, 2020, doi: 10.1111/1755‐0998.13182.
+
 **2019**
 1. **Xinhai Ye #(#co-first author)**, Le Xu#, Xiang Li#, Kang He#, Hongxia Hua, Zhenghong Cao, Jiadan Xu, Wanyi Ye, Jiao Zhang, Zhuting Yuan, Fei Li. miR-34 modulates wing polyphenism in planthopper. ***PLOS Genetics***, 2019, 15(6): e1008235.doi: 10.1371/journal.pgen.1008235.
 2. Ziwen Teng, Huizi Wu, **Xinhai Ye**, Shijiao Xiong, Gang Xu, Fang Wang, Qi Fang, and Gongyin Ye. An ovarian protein involved in passive avoidance of an endoparasitoid to evade its host immune response. ***Journal of Proteome Research***, 2019, 18, 2695-2705.doi: 10.1021/acs.jproteome.8b00824.
