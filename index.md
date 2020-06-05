@@ -35,7 +35,7 @@
 10. Shijiao Xiong, Kaili Yu, **Xinhai Ye**, Qi Fang, Yi Deng, Shan Xiao, Lei Yang, Beibei Wang, Fei Wang, Zhichao Yan, Fang Wang, Qisheng Song, David W. Stanley, Gongyin Ye. Genes acting in longevity‐related pathways in the endoparasitoid, *Pteromalus puparum*. ***Archives of Insect Biochemistry and Physiology***, 2019, e21635. doi: 10.1002/arch.21635.
 
 **2018**
-1. Longfei Chen, Kun Lang, Shoudong Bi, Jiapeng Luo, Feiling Liu, **Xinhai Ye**, Jiadan Xu, Kang He, Fei Li, Gongyin Ye, Xuexin Chen. WaspBase: a genomic resource for the interactions among parasitic wasps, insect hosts and plants. **Database**, 2018, 1-9.
+1. Longfei Chen, Kun Lang, Shoudong Bi, Jiapeng Luo, Feiling Liu, **Xinhai Ye**, Jiadan Xu, Kang He, Fei Li, Gongyin Ye, Xuexin Chen. WaspBase: a genomic resource for the interactions among parasitic wasps, insect hosts and plants. ***Database***, 2018, 1-9.
 
 **2017**
 1. **Xinhai Ye #(#co-first author)**, Liwen Yang#, Qi Fang, Fei Li. Two acetylcholinesterase genes in *Bombyx mori* have different functions in motor ability and development. ***Scientific Reports***, 2017,7:4985.
