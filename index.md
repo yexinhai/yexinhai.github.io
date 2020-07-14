@@ -21,7 +21,7 @@
 For more detailed information see my [google citations page](https://scholar.google.com/citations?user=oV39vz0AAAAJ&hl=zh-CN)
 
 **2020**
-1.**Xinhai Ye**, Yi Yang, Zhaoyang Tian, Le Xu, Kaili Yu, Shan Xiao, Chuanlin Yin, Shijiao Xiong, Qi Fang, Hu Chen, Fei Li, Gongyin Ye. A high-quality *de novo* genome assembly from a single parasitoid wasp. bioRxiv, 2020, 2020.07.13.200725. doi: 10.1101/2020.07.13.200725
+1. **Xinhai Ye**, Yi Yang, Zhaoyang Tian, Le Xu, Kaili Yu, Shan Xiao, Chuanlin Yin, Shijiao Xiong, Qi Fang, Hu Chen, Fei Li, Gongyin Ye. A high-quality *de novo* genome assembly from a single parasitoid wasp. bioRxiv, 2020, 2020.07.13.200725. doi: 10.1101/2020.07.13.200725
 2. **Xinhai Ye #(#co-first author)**, Zhichao Yan#, Yi Yang#, Shan Xiao, Longfei Chen, Jiale Wang, Fei Wang, Shijiao Xiong, Yang Mei, Fang Wang, Hongwei Yao, Qisheng Song, Fei Li, Qi Fang, John H. Werren, Gongyin Ye. A chromosome‐level genome assembly of the parasitoid wasp *Pteromalus puparum*. ***Molecular Ecology Resources***, 2020, doi: 10.1111/1755-0998.13206.
 3. Huamei Xiao#, **Xinhai Ye #(#co-first author)**, Hongxing Xu#, Yang Mei#, Yi Yang, Xi Chen, Yajun Yang, Tao Liu, Yongyi Yu, Weifei Yang, Zhongxian Lu, Fei Li. The genetic adaptations of fall armyworm *Spodoptera frugiperda* facilitated its rapid global dispersal and invasion. ***Molecular Ecology Resources***, 2020, doi: 10.1111/1755‐0998.13182.
 
