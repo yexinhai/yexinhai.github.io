@@ -21,7 +21,7 @@
 For more detailed information see my [google citations page](https://scholar.google.com/citations?user=oV39vz0AAAAJ&hl=zh-CN)
 
 **2021**
-1. Xianxin Zhao#, Hongxing Xu#, Kang He, Zhenmin Shi, Xi Chen, **Xinhai Ye**, Yang Mei, Yajun Yang, Meizhen Li, Libin Gao, Le Xu, Huamei Xiao, Ying Liu, Zhongxian Lu, Fei Li. A chromosome-level genome assembly of rice leaffolder, *Cnaphalocrocis medinalis*. ***Molecular Ecology Resources***, 2021; 21: 561–572. doi: 10.1111/1755-0998.13274 [PDF](https://github.com/yexinhai/yexinhai.github.io/tree/master/papers/2020-MER-Cnaphalocrocis medinalis的副本.pdf)
+1. Xianxin Zhao#, Hongxing Xu#, Kang He, Zhenmin Shi, Xi Chen, **Xinhai Ye**, Yang Mei, Yajun Yang, Meizhen Li, Libin Gao, Le Xu, Huamei Xiao, Ying Liu, Zhongxian Lu, Fei Li. A chromosome-level genome assembly of rice leaffolder, *Cnaphalocrocis medinalis*. ***Molecular Ecology Resources***, 2021; 21: 561–572. doi: 10.1111/1755-0998.13274 [PDF](https://github.com/yexinhai/yexinhai.github.io/tree/master/papers/2020-MER-Cnaphalocrocis%medinalis的副本.pdf)
 
 **2020**
 1. **Xinhai Ye**, Yi Yang, Zhaoyang Tian, Le Xu, Kaili Yu, Shan Xiao, Chuanlin Yin, Shijiao Xiong, Qi Fang, Hu Chen, Fei Li, Gongyin Ye. A high-quality *de novo* genome assembly from a single parasitoid wasp. ***bioRxiv***, 2020, 2020.07.13.200725
