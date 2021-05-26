@@ -21,15 +21,18 @@
 For more detailed information see my [google citations page](https://scholar.google.com/citations?user=oV39vz0AAAAJ&hl=zh-CN)
 
 **2021**
+
 21. Xianxin Zhao#, Hongxing Xu#, Kang He, Zhenmin Shi, Xi Chen, **Xinhai Ye**, Yang Mei, Yajun Yang, Meizhen Li, Libin Gao, Le Xu, Huamei Xiao, Ying Liu, Zhongxian Lu, Fei Li. A chromosome-level genome assembly of rice leaffolder, *Cnaphalocrocis medinalis*. ***Molecular Ecology Resources***, 2021; 21: 561–572. doi: 10.1111/1755-0998.13274
 
 **2020**
+
 20. **Xinhai Ye**, Yi Yang, Zhaoyang Tian, Le Xu, Kaili Yu, Shan Xiao, Chuanlin Yin, Shijiao Xiong, Qi Fang, Hu Chen, Fei Li, Gongyin Ye. A high-quality *de novo* genome assembly from a single parasitoid wasp. ***bioRxiv***, 2020, 2020.07.13.200725
 19. **Xinhai Ye #(#co-first author)**, Zhichao Yan#, Yi Yang#, Shan Xiao, Longfei Chen, Jiale Wang, Fei Wang, Shijiao Xiong, Yang Mei, Fang Wang, Hongwei Yao, Qisheng Song, Fei Li, Qi Fang, John H. Werren, Gongyin Ye. A chromosome‐level genome assembly of the parasitoid wasp *Pteromalus puparum*. ***Molecular Ecology Resources***, 2020, 20: 1384–1402. doi: 10.1111/1755-0998.13206
 18. Huamei Xiao#, **Xinhai Ye #(#co-first author)**, Hongxing Xu#, Yang Mei#, Yi Yang, Xi Chen, Yajun Yang, Tao Liu, Yongyi Yu, Weifei Yang, Zhongxian Lu, Fei Li. The genetic adaptations of fall armyworm *Spodoptera frugiperda* facilitated its rapid global dispersal and invasion. ***Molecular Ecology Resources***, 2020, 20: 1050–1068. doi: 10.1111/1755‐0998.13182
 17. Kaili Yu#, Shijiao Xiong#, Gang Xu, **Xinhai Ye**, Hongwei Yao, Fang Wang, Qi Fang, Qisheng Song, Gongyin Ye. Identification of neuropeptides and their receptors in the ectoparasitoid, *Habrobracon hebetor*. ***Frontiers in Physiology***, 2020, 11: 575655. doi: 10.3389/fphys.2020.575655
 
 **2019**
+
 16. **Xinhai Ye #(#co-first author)**, Le Xu#, Xiang Li#, Kang He#, Hongxia Hua, Zhenghong Cao, Jiadan Xu, Wanyi Ye, Jiao Zhang, Zhuting Yuan, Fei Li. miR-34 modulates wing polyphenism in planthopper. ***PLOS Genetics***, 2019, 15(6): e1008235. doi: 10.1371/journal.pgen.1008235
 15. Ziwen Teng, Huizi Wu, **Xinhai Ye**, Shijiao Xiong, Gang Xu, Fang Wang, Qi Fang, and Gongyin Ye. An ovarian protein involved in passive avoidance of an endoparasitoid to evade its host immune response. ***Journal of Proteome Research***, 2019, 18, 2695-2705. doi: 10.1021/acs.jproteome.8b00824
 14. Mengyao Chen, Wanyi Ye, Huamei Xiao, Meizhen Li, Zhenghong Cao, **Xinhai Ye**, Xianxin Zhao, Kang He, Fei Li. lncRNAs are potentially involved in the immune interaction between small brown planthopper and rice stipe virus. ***Journal of Integrative Agriculture***, 2019, 18(12): 2814-2822. doi: 10.1016/S2095-3119(19)62569-4
@@ -42,17 +45,21 @@ For more detailed information see my [google citations page](https://scholar.goo
 7. Shijiao Xiong, Kaili Yu, **Xinhai Ye**, Qi Fang, Yi Deng, Shan Xiao, Lei Yang, Beibei Wang, Fei Wang, Zhichao Yan, Fang Wang, Qisheng Song, David W. Stanley, Gongyin Ye. Genes acting in longevity‐related pathways in the endoparasitoid, *Pteromalus puparum*. ***Archives of Insect Biochemistry and Physiology***, 2019, e21635. doi: 10.1002/arch.21635
 
 **2018**
+
 6. Longfei Chen, Kun Lang, Shoudong Bi, Jiapeng Luo, Feiling Liu, **Xinhai Ye**, Jiadan Xu, Kang He, Fei Li, Gongyin Ye, Xuexin Chen. WaspBase: a genomic resource for the interactions among parasitic wasps, insect hosts and plants. ***Database***, 2018, 1-9.
 
 **2017**
+
 5. **Xinhai Ye #(#co-first author)**, Liwen Yang#, Qi Fang, Fei Li. Two acetylcholinesterase genes in *Bombyx mori* have different functions in motor ability and development. ***Scientific Reports***, 2017,7:4985.
 4. **Xinhai Ye**, Cornelis van Achterberg, Qi Yue, Zaifu Xu. A review of the Chinese Leucospidae (Hymenoptera, Chalcidoidea). ***Zookeys***, 2017, 651: 107-157.
 3. Zhichao Yan, **Xinhai Ye**, Beibei Wang, Qi Fang, Gongyin Ye. Research advances on composition, function and evolution of venom proteins in parasitoid wasps (**in Chinese)**. ***Chinese Journal of Biological Control***, 2017, 33(1): 1-10.
 
 **2016**
+
 2. Qi Fang, Beibei Wang, **Xinhai Ye**, Fei Wang, Gongyin Ye. Venom of parasitoid *Pteromalus puparum* impairs host humoral antimicrobial activity by decreasing host cecropin and lysozyme gene expression. ***Toxins***, 2016, 8: 52.
 
 **2015**
+
 1. Yu Zhu, **Xinhai Ye**, Yang Liu, Zhichao Yan, David W. Stanley, Gongyin Ye, Qi Fang. A venom gland extracellular chitin binding-like protein from pupal endoparasitoid wasps, *Pteromalus puparum*, selectively binds chitin. ***Toxins***, 2015, 7: 5098-5113.
 
 ### Honors & awards
