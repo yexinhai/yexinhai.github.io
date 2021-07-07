@@ -1,11 +1,11 @@
 ### Main information
-- Ye Xinhai 叶昕海
-- Ph.D student in Institute of Insect Sciences, Zhejiang University.
+- Ye Xinhai, PhD （叶昕海）
+- Institute of Insect Sciences, Zhejiang University
 - yexinhai@zju.edu.cn
 
 ### Education
 - 2020.01-2021.01 Visiting Ph.D student, Department of Biology, University of Rochester, Rochester, NY, USA. Advised by Prof. John H. Werren (China Scholarship Council, CSC program)
-- 2017.09-Now	Ph.D student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
+- 2017.09-2021.06	Ph.D student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
 - 2016.09-2017.06	Master student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
 - 2012.09-2016.06	B.A.(Agr.)(College of Agriculture), B.A. (Art)(College of Foreign Studies), South China Agriculture University, Guangzhou, China. Advised by Prof. Zaifu Xu
 
@@ -22,6 +22,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 
 **2021**
 1. Xianxin Zhao#, Hongxing Xu#, Kang He, Zhenmin Shi, Xi Chen, **Xinhai Ye**, Yang Mei, Yajun Yang, Meizhen Li, Libin Gao, Le Xu, Huamei Xiao, Ying Liu, Zhongxian Lu, Fei Li. A chromosome-level genome assembly of rice leaffolder, *Cnaphalocrocis medinalis*. ***Molecular Ecology Resources***, 2021; 21: 561–572. doi: 10.1111/1755-0998.13274
+2. Hongxing Xu#, Xianxin Zhao#, Yajun Yang, Xi Chen, Yang Mei, Kang He, Xu Le, **Xinhai Ye**, Ying Liu, Fei Li, Zhongxian Lu. Chromosome-level genome assembly of an agricultural pest, the rice leaffolder *Cnaphalocrocis exigua* (Crambidae, Lepidoptera). ***Molecular Ecology Resources***, 2021; doi: 10.1111/1755-0998.13461
 
 **2020**
 1. **Xinhai Ye**, Yi Yang, Zhaoyang Tian, Le Xu, Kaili Yu, Shan Xiao, Chuanlin Yin, Shijiao Xiong, Qi Fang, Hu Chen, Fei Li, Gongyin Ye. A high-quality *de novo* genome assembly from a single parasitoid wasp. ***bioRxiv***, 2020, 2020.07.13.200725
