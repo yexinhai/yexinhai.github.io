@@ -4,8 +4,8 @@
 - yexinhai@zju.edu.cn
 
 ### Education
-- 2020.01-2021.01 Visiting Ph.D student, Department of Biology, University of Rochester, Rochester, NY, USA. Advised by Prof. John H. Werren (China Scholarship Council, CSC program)
 - 2017.09-2021.06	Ph.D student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
+- 2020.01-2021.01 Visiting Ph.D student, Department of Biology, University of Rochester, Rochester, NY, USA. Advised by Prof. John H. Werren (China Scholarship Council, CSC program)
 - 2016.09-2017.06	Master student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
 - 2012.09-2016.06	B.A.(Agr.)(College of Agriculture), B.A. (Art)(College of Foreign Studies), South China Agriculture University, Guangzhou, China. Advised by Prof. Zaifu Xu
 
