@@ -21,8 +21,9 @@
 For more detailed information see my [google citations page](https://scholar.google.com/citations?user=oV39vz0AAAAJ&hl=zh-CN)
 
 **2021**
-1. Xianxin Zhao#, Hongxing Xu#, Kang He, Zhenmin Shi, Xi Chen, **Xinhai Ye**, Yang Mei, Yajun Yang, Meizhen Li, Libin Gao, Le Xu, Huamei Xiao, Ying Liu, Zhongxian Lu, Fei Li. A chromosome-level genome assembly of rice leaffolder, *Cnaphalocrocis medinalis*. ***Molecular Ecology Resources***, 2021; 21: 561–572. doi: 10.1111/1755-0998.13274
-2. Hongxing Xu#, Xianxin Zhao#, Yajun Yang, Xi Chen, Yang Mei, Kang He, Xu Le, **Xinhai Ye**, Ying Liu, Fei Li, Zhongxian Lu. Chromosome-level genome assembly of an agricultural pest, the rice leaffolder *Cnaphalocrocis exigua* (Crambidae, Lepidoptera). ***Molecular Ecology Resources***, 2021; doi: 10.1111/1755-0998.13461
+1. Yi Yang#, **Xinhai Ye #(#co-first author)**, Cong Dang, Yunshen Cao, Rui Hong, Yu H. Sun, Shan Xiao, Yang Mei, Le Xu, Qi Fang, Huamei Xiao, Fei Li, Gongyin Ye. Genome of the pincer wasp *Gonatopus flavifemur* reveals unique venom evolution and a dual adaptation to parasitism and predation. ***BMC Biology***, 2021 (in Press)
+2. Xianxin Zhao#, Hongxing Xu#, Kang He, Zhenmin Shi, Xi Chen, **Xinhai Ye**, Yang Mei, Yajun Yang, Meizhen Li, Libin Gao, Le Xu, Huamei Xiao, Ying Liu, Zhongxian Lu, Fei Li. A chromosome-level genome assembly of rice leaffolder, *Cnaphalocrocis medinalis*. ***Molecular Ecology Resources***, 2021; 21: 561–572. doi: 10.1111/1755-0998.13274
+3. Hongxing Xu#, Xianxin Zhao#, Yajun Yang, Xi Chen, Yang Mei, Kang He, Xu Le, **Xinhai Ye**, Ying Liu, Fei Li, Zhongxian Lu. Chromosome-level genome assembly of an agricultural pest, the rice leaffolder *Cnaphalocrocis exigua* (Crambidae, Lepidoptera). ***Molecular Ecology Resources***, 2021; doi: 10.1111/1755-0998.13461
 
 **2020**
 1. **Xinhai Ye**, Yi Yang, Zhaoyang Tian, Le Xu, Kaili Yu, Shan Xiao, Chuanlin Yin, Shijiao Xiong, Qi Fang, Hu Chen, Fei Li, Gongyin Ye. A high-quality *de novo* genome assembly from a single parasitoid wasp. ***bioRxiv***, 2020, 2020.07.13.200725
