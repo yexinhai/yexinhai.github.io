@@ -1,6 +1,6 @@
 ### Main information
 - Ye Xinhai, PhD （叶昕海）
-- Shanghai Institute for Advance Study, Zhejiang University
+- Shanghai Institute for Advanced Study, Zhejiang University
 - Institute of Insect Sciences, Zhejiang University
 - yexinhai@zju.edu.cn
 
