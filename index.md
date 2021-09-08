@@ -21,10 +21,13 @@
 ### Publications
 For more detailed information see my [google citations page](https://scholar.google.com/citations?user=oV39vz0AAAAJ&hl=zh-CN)
 
+**# co-first author, * Corresponding author
+
 **2021**
-1. Yi Yang#, **Xinhai Ye #(#co-first author)**, Cong Dang, Yunshen Cao, Rui Hong, Yu H. Sun, Shan Xiao, Yang Mei, Le Xu, Qi Fang, Huamei Xiao, Fei Li, Gongyin Ye. Genome of the pincer wasp *Gonatopus flavifemur* reveals unique venom evolution and a dual adaptation to parasitism and predation. ***BMC Biology***, 2021, 19(145). doi: 10.1186/s12915-021-01081-6
-2. Xianxin Zhao#, Hongxing Xu#, Kang He, Zhenmin Shi, Xi Chen, **Xinhai Ye**, Yang Mei, Yajun Yang, Meizhen Li, Libin Gao, Le Xu, Huamei Xiao, Ying Liu, Zhongxian Lu, Fei Li. A chromosome-level genome assembly of rice leaffolder, *Cnaphalocrocis medinalis*. ***Molecular Ecology Resources***, 2021; 21: 561–572. doi: 10.1111/1755-0998.13274
-3. Hongxing Xu#, Xianxin Zhao#, Yajun Yang, Xi Chen, Yang Mei, Kang He, Xu Le, **Xinhai Ye**, Ying Liu, Fei Li, Zhongxian Lu. Chromosome-level genome assembly of an agricultural pest, the rice leaffolder *Cnaphalocrocis exigua* (Crambidae, Lepidoptera). ***Molecular Ecology Resources***, 2021; doi: 10.1111/1755-0998.13461
+1. Hongxing Xu#, **Xinhai Ye #(#co-first author)**, Yajun Yang, Yi Yang, Yu H. Sun, Yang Mei, Shijiao Xiong, Kang He, Le Xu, Qi Fang, Fei Li*, Gongyin Ye*, Zhongxian Lu*. Comparative genomics sheds light on the convergent evolution of miniaturized wasps. ***Molecular Biology and Evolution***, 2021, in press.
+2. Yi Yang#, **Xinhai Ye #(#co-first author)**, Cong Dang, Yunshen Cao, Rui Hong, Yu H. Sun, Shan Xiao, Yang Mei, Le Xu, Qi Fang, Huamei Xiao, Fei Li, Gongyin Ye. Genome of the pincer wasp *Gonatopus flavifemur* reveals unique venom evolution and a dual adaptation to parasitism and predation. ***BMC Biology***, 2021, 19(145). doi: 10.1186/s12915-021-01081-6
+3. Xianxin Zhao#, Hongxing Xu#, Kang He, Zhenmin Shi, Xi Chen, **Xinhai Ye**, Yang Mei, Yajun Yang, Meizhen Li, Libin Gao, Le Xu, Huamei Xiao, Ying Liu, Zhongxian Lu, Fei Li. A chromosome-level genome assembly of rice leaffolder, *Cnaphalocrocis medinalis*. ***Molecular Ecology Resources***, 2021; 21: 561–572. doi: 10.1111/1755-0998.13274
+4. Hongxing Xu#, Xianxin Zhao#, Yajun Yang, Xi Chen, Yang Mei, Kang He, Xu Le, **Xinhai Ye**, Ying Liu, Fei Li, Zhongxian Lu. Chromosome-level genome assembly of an agricultural pest, the rice leaffolder *Cnaphalocrocis exigua* (Crambidae, Lepidoptera). ***Molecular Ecology Resources***, 2021; doi: 10.1111/1755-0998.13461
 
 **2020**
 1. **Xinhai Ye**, Yi Yang, Zhaoyang Tian, Le Xu, Kaili Yu, Shan Xiao, Chuanlin Yin, Shijiao Xiong, Qi Fang, Hu Chen, Fei Li, Gongyin Ye. A high-quality *de novo* genome assembly from a single parasitoid wasp. ***bioRxiv***, 2020, 2020.07.13.200725
