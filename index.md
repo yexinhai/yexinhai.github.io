@@ -21,7 +21,7 @@
 ### Publications
 For more detailed information see my [google citations page](https://scholar.google.com/citations?user=oV39vz0AAAAJ&hl=zh-CN)
 
-**# co-first author, * Corresponding author
+**# co-first author, * Corresponding author**
 
 **2021**
 1. Hongxing Xu#, **Xinhai Ye #(#co-first author)**, Yajun Yang, Yi Yang, Yu H. Sun, Yang Mei, Shijiao Xiong, Kang He, Le Xu, Qi Fang, Fei Li*, Gongyin Ye*, Zhongxian Lu*. Comparative genomics sheds light on the convergent evolution of miniaturized wasps. ***Molecular Biology and Evolution***, 2021, in press.
