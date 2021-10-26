@@ -29,6 +29,8 @@ For more detailed information see my [google citations page](https://scholar.goo
 3. Yang Mei, Dong Jing, Shenyang Tang, Xi Chen, Hao Chen, Haonan Duanmu, Yuyang Cong, Mengyao Chen, **Xinhai Ye**, Hang Zhou, Kang He, Fei Li*. InsectBase 2.0: a comprehensive gene resource for insects. ***Nucleic Acids Research***, 2021, Accepted.
 4. Xianxin Zhao#, Hongxing Xu#, Kang He, Zhenmin Shi, Xi Chen, **Xinhai Ye**, Yang Mei, Yajun Yang, Meizhen Li, Libin Gao, Le Xu, Huamei Xiao, Ying Liu, Zhongxian Lu, Fei Li*. A chromosome-level genome assembly of rice leaffolder, *Cnaphalocrocis medinalis*. ***Molecular Ecology Resources***, 2021; 21: 561–572. doi: 10.1111/1755-0998.13274
 5. Hongxing Xu#, Xianxin Zhao#, Yajun Yang, Xi Chen, Yang Mei, Kang He, Xu Le, **Xinhai Ye**, Ying Liu, Fei Li, Zhongxian Lu*. Chromosome-level genome assembly of an agricultural pest, the rice leaffolder *Cnaphalocrocis exigua* (Crambidae, Lepidoptera). ***Molecular Ecology Resources***, 2021; doi: 10.1111/1755-0998.13461
+6. Ziwen Teng, Huizi Wu, **Xinhai Ye**, Qi Fang, Hongxu Zhou, Gongyin Ye. An endoparasitoid uses its egg surface proteins to regulate its host immune response. ***Insect Science***, 2021, doi: 10.1111/1744-7917.12978
+
 
 **2020**
 1. **Xinhai Ye**, Yi Yang, Zhaoyang Tian, Le Xu, Kaili Yu, Shan Xiao, Chuanlin Yin, Shijiao Xiong, Qi Fang, Hu Chen*, Fei Li*, Gongyin Ye*. A high-quality *de novo* genome assembly from a single parasitoid wasp. ***bioRxiv***, 2020, 2020.07.13.200725
