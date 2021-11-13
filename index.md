@@ -54,7 +54,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 1. Longfei Chen, Kun Lang, Shoudong Bi, Jiapeng Luo, Feiling Liu, **Xinhai Ye**, Jiadan Xu, Kang He, Fei Li*, Gongyin Ye*, Xuexin Chen. WaspBase: a genomic resource for the interactions among parasitic wasps, insect hosts and plants. ***Database***, 2018, 1-9.
 
 **2017**
-1. **Xinhai Ye #(#co-first author)**, Liwen Yang#, Qi Fang, Fei Li*. Two acetylcholinesterase genes in *Bombyx mori* have different functions in motor ability and development. ***Scientific Reports***, 2017,7:4985.
+1. **Xinhai Ye #(#co-first author)**, Liwen Yang#, Qi Fang, Fei Li*. Two acetylcholinesterase genes in *Bombyx mori* have different functions in motor ability and development in different ways. ***Scientific Reports***, 2017,7:4985.
 2. **Xinhai Ye**, Cornelis van Achterberg, Qi Yue, Zaifu Xu*. A review of the Chinese Leucospidae (Hymenoptera, Chalcidoidea). ***Zookeys***, 2017, 651: 107-157.
 3. Zhichao Yan, **Xinhai Ye**, Beibei Wang, Qi Fang, Gongyin Ye. Research advances on composition, function and evolution of venom proteins in parasitoid wasps (**in Chinese)**. ***Chinese Journal of Biological Control***, 2017, 33(1): 1-10.
 
