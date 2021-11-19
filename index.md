@@ -31,12 +31,12 @@ For more detailed information see my [google citations page](https://scholar.goo
 5. Hongxing Xu#, Xianxin Zhao#, Yajun Yang, Xi Chen, Yang Mei, Kang He, Xu Le, **Xinhai Ye**, Ying Liu, Fei Li, Zhongxian Lu*. Chromosome-level genome assembly of an agricultural pest, the rice leaffolder *Cnaphalocrocis exigua* (Crambidae, Lepidoptera). ***Molecular Ecology Resources***, 2021; doi: 10.1111/1755-0998.13461
 6. Ziwen Teng, Huizi Wu, **Xinhai Ye**, Qi Fang, Hongxu Zhou, Gongyin Ye. An endoparasitoid uses its egg surface proteins to regulate its host immune response. ***Insect Science***, 2021, doi: 10.1111/1744-7917.12978
 
-
 **2020**
 1. **Xinhai Ye**, Yi Yang, Zhaoyang Tian, Le Xu, Kaili Yu, Shan Xiao, Chuanlin Yin, Shijiao Xiong, Qi Fang, Hu Chen*, Fei Li*, Gongyin Ye*. A high-quality *de novo* genome assembly from a single parasitoid wasp. ***bioRxiv***, 2020, 2020.07.13.200725
 2. **Xinhai Ye #(#co-first author)**, Zhichao Yan#, Yi Yang#, Shan Xiao, Longfei Chen, Jiale Wang, Fei Wang, Shijiao Xiong, Yang Mei, Fang Wang, Hongwei Yao, Qisheng Song, Fei Li, Qi Fang*, John H. Werren*, Gongyin Ye*. A chromosome‐level genome assembly of the parasitoid wasp *Pteromalus puparum*. ***Molecular Ecology Resources***, 2020, 20: 1384–1402. doi: 10.1111/1755-0998.13206
 3. Huamei Xiao#\*, **Xinhai Ye #(#co-first author)**, Hongxing Xu#, Yang Mei#, Yi Yang, Xi Chen, Yajun Yang, Tao Liu*, Yongyi Yu, Weifei Yang, Zhongxian Lu, Fei Li*. The genetic adaptations of fall armyworm *Spodoptera frugiperda* facilitated its rapid global dispersal and invasion. ***Molecular Ecology Resources***, 2020, 20: 1050–1068. doi: 10.1111/1755‐0998.13182
 4. Kaili Yu#, Shijiao Xiong#, Gang Xu, **Xinhai Ye**, Hongwei Yao, Fang Wang, Qi Fang, Qisheng Song, Gongyin Ye*. Identification of neuropeptides and their receptors in the ectoparasitoid, *Habrobracon hebetor*. ***Frontiers in Physiology***, 2020, 11: 575655. doi: 10.3389/fphys.2020.575655
+5. Weihua Ma, Tong Wu, Zan Zhang, Hang Li, Gongming Situ, Chuanlin Yin, **Xinhai Ye**, Mengyao Chen, Xianxin Zhao, Kang He, Fei Li. Using transcriptome shannon entropy to evaluate the off-target effects and safety of insecticidal siRNAs. ***Journal of Integrative Agriculture***, 2020, doi: 10.1016/S2095-3119(20)63394-9
 
 **2019**
 1. **Xinhai Ye #(#co-first author)**, Le Xu#, Xiang Li#, Kang He#, Hongxia Hua, Zhenghong Cao, Jiadan Xu, Wanyi Ye, Jiao Zhang, Zhuting Yuan, Fei Li*. miR-34 modulates wing polyphenism in planthopper. ***PLOS Genetics***, 2019, 15(6): e1008235. doi: 10.1371/journal.pgen.1008235
