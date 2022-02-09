@@ -82,7 +82,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 “Academic Star” Program for Ph.D Student in Zhejiang University (2018-2020), 40,000 RMB.
 
 ### Reviewer
-Frontiers in Genetics, Communications Biology, IScience, Molecular Ecology Resources, BMC Genomics, G3, Scientific Reports.
+Frontiers in Genetics, Communications Biology, IScience, Molecular Ecology Resources, BMC Genomics, G3, Scientific Reports, PeerJ.
 
 ### Editorial Board
 - Frontiers in Genetics, Review Editor in Livestock Genomics, 2020-present
