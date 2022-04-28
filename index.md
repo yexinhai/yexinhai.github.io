@@ -24,7 +24,8 @@ For more detailed information see my [google citations page](https://scholar.goo
 **# co-first author, * Corresponding author**
 
 **2022**
-1. Weihua Ma, Tong Wu, Zan Zhang, Hang Li, Gongming Situ, Chuanlin Yin, **Xinhai Ye**, Mengyao Chen, Xianxin Zhao, Kang He, Fei Li*. Using transcriptome shannon entropy to evaluate the off-target effects and safety of insecticidal siRNAs. ***Journal of Integrative Agriculture***, 2022, 21(1), doi: 10.1016/S2095-3119(20)63394-9 **(Cover Story)**
+1.**Xinhai Ye #(#co-first author)**, Shijiao Xiong#, Ziwen Teng, Yi Yang, Jiale Wang, Kaili Yu, Huizi Wu, Yang Mei, Cheng Xue, Zhichao Yan, Chuanlin Yin, Fang Wang, Hongwei Yao, Qi Fang, Qisheng Song, Gongyin Ye*, Fei Li*. Genome of the parasitoid wasp *Cotesia chilonis* sheds light on amino acid resource exploitation. ***BMC Biology***, 2022, Accepted.
+2. Weihua Ma, Tong Wu, Zan Zhang, Hang Li, Gongming Situ, Chuanlin Yin, **Xinhai Ye**, Mengyao Chen, Xianxin Zhao, Kang He, Fei Li*. Using transcriptome shannon entropy to evaluate the off-target effects and safety of insecticidal siRNAs. ***Journal of Integrative Agriculture***, 2022, 21(1), doi: 10.1016/S2095-3119(20)63394-9 **(Cover Story)**
 
 **2021**
 1. Hongxing Xu#, **Xinhai Ye #(#co-first author)**, Yajun Yang, Yi Yang, Yu H. Sun, Yang Mei, Shijiao Xiong, Kang He, Le Xu, Qi Fang, Fei Li*, Gongyin Ye*, Zhongxian Lu*. Comparative genomics sheds light on the convergent evolution of miniaturized wasps. ***Molecular Biology and Evolution***, 2021, 38(12), 5539–5554, doi: 10.1093/molbev/msab273. **(Cover Highlight)**
@@ -79,10 +80,11 @@ For more detailed information see my [google citations page](https://scholar.goo
 - 2017.07	Best poster in the 3rd International Conference of Insect Genomics (ICIG) and 6th International Symposium on Insect Physiology, Biochemistry and Molecular Biology (IPBMB), Hangzhou, China
 
 ### Grant
+The China Postdoctoral Science Foundation (2021M700125), 2022-2023, 120,000 RMB.
 “Academic Star” Program for Ph.D Student in Zhejiang University (2018-2020), 40,000 RMB.
 
 ### Reviewer
-Frontiers in Genetics, Communications Biology, IScience, Molecular Ecology Resources, BMC Genomics, G3, Scientific Reports, PeerJ.
+Frontiers in Genetics, Communications Biology, IScience, Molecular Ecology Resources, BMC Genomics, G3, Scientific Reports, PeerJ, Molecular Biology and Evolution, Wellcome Open Research, Data
 
 ### Editorial Board
 - Frontiers in Genetics, Review Editor in Livestock Genomics, 2020-present
