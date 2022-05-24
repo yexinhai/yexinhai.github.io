@@ -24,7 +24,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 **# co-first author, * Corresponding author**
 
 **2022**
-1. **Xinhai Ye #(#co-first author)**, Shijiao Xiong#, Ziwen Teng, Yi Yang, Jiale Wang, Kaili Yu, Huizi Wu, Yang Mei, Cheng Xue, Zhichao Yan, Chuanlin Yin, Fang Wang, Hongwei Yao, Qi Fang, Qisheng Song, Gongyin Ye*, Fei Li*. Genome of the parasitoid wasp *Cotesia chilonis* sheds light on amino acid resource exploitation. ***BMC Biology***, 2022, Accepted.
+1. **Xinhai Ye #(#co-first author)**, Shijiao Xiong#, Ziwen Teng, Yi Yang, Jiale Wang, Kaili Yu, Huizi Wu, Yang Mei, Cheng Xue, Zhichao Yan, Chuanlin Yin, Fang Wang, Hongwei Yao, Qi Fang, Qisheng Song, Gongyin Ye*, Fei Li*. Genome of the parasitoid wasp *Cotesia chilonis* sheds light on amino acid resource exploitation. ***BMC Biology***, 2022, 20(1):118. doi: 10.1186/s12915-022-01313-3
 2. Longfei Chen, Kun Lang, Bo Zhang, Jiamin Shi, **Xinhai Ye**, David W. Stanley, Qi Fang*, Gongyin Ye. iVenomDB: a manually curated database for insect venom proteins. ***Insect Science***, 2022, Accepted.
 3. Weihua Ma, Tong Wu, Zan Zhang, Hang Li, Gongming Situ, Chuanlin Yin, **Xinhai Ye**, Mengyao Chen, Xianxin Zhao, Kang He, Fei Li*. Using transcriptome shannon entropy to evaluate the off-target effects and safety of insecticidal siRNAs. ***Journal of Integrative Agriculture***, 2022, 21(1), doi: 10.1016/S2095-3119(20)63394-9 **(Cover Story)**
 
