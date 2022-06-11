@@ -12,8 +12,8 @@
 
 ### Areas of research interest
 - Parasitoid wasp genomics
-- Genetics and genomics
-- Ecology and evolution
+- Comparative genomics
+- Venom evolution
 - Non-coding RNAs
 - Bioinformatics
 - Entomology
