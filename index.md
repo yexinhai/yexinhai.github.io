@@ -24,8 +24,8 @@ For more detailed information see my [google citations page](https://scholar.goo
 
 **# co-first author, * Corresponding author**
 
-**2022**
-1. (N31) Yuyang Cong, **Xinhai Ye**, Yang Mei, Kang He, Fei Li*. Transposons and non-coding regions drive the intrafamily differences of genome size in insects. ***IScience***, 2022,104873. doi: 10.1016/j.isci.2022.104873.
+**2022*
+1. (N31) Yuyang Cong, **Xinhai Ye**, Yang Mei, Kang He, Fei Li*. Transposons and non-coding regions drive the intrafamily differences of genome size in insects. ***IScience***, 2022, 25:104873. doi: 10.1016/j.isci.2022.104873.
 2. (N30) **Xinhai Ye #(#co-first author)**, Shijiao Xiong#, Ziwen Teng, Yi Yang, Jiale Wang, Kaili Yu, Huizi Wu, Yang Mei, Cheng Xue, Zhichao Yan, Chuanlin Yin, Fang Wang, Hongwei Yao, Qi Fang, Qisheng Song, Gongyin Ye*, Fei Li*. Genome of the parasitoid wasp *Cotesia chilonis* sheds light on amino acid resource exploitation. ***BMC Biology***, 2022, 20(1):118. doi: 10.1186/s12915-022-01313-3
 3. (N29) Yang Mei, Dong Jing, Shenyang Tang, Xi Chen, Hao Chen, Haonan Duanmu, Yuyang Cong, Mengyao Chen, **Xinhai Ye**, Hang Zhou, Kang He, Fei Li*. InsectBase 2.0: a comprehensive gene resource for insects. ***Nucleic Acids Research***, 2022, gkab1090, doi: 10.1093/nar/gkab1090
 4. (N28) Longfei Chen, Kun Lang, Bo Zhang, Jiamin Shi, **Xinhai Ye**, David W. Stanley, Qi Fang*, Gongyin Ye. iVenomDB: a manually curated database for insect venom proteins. ***Insect Science***, 2022, doi: 10.1111/1744-7917.13054
