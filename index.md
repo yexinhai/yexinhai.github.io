@@ -25,6 +25,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 **# co-first author, * Corresponding author**
 
 **2022**
+
 1.(N32) **Xinhai Ye #(#co-first author)**, Yi Yang#, Can Zhao#, Shan Xiao, Yu H. Sun, Chun He, Shijiao Xiong, Xianxin Zhao, Bo Zhang, Haiwei Lin, Jiamin Shi, Yang Mei, Hongxing Xu, Qi Fang, Fei Wu, Dunsong Li*, Gongyin Ye*. Genomic signatures associated with maintenance of genome stability and venom turnover in two parasitoid wasps. ***Nature Communications***, 2022, Accepted.
 2. (N31) Yuyang Cong, **Xinhai Ye**, Yang Mei, Kang He, Fei Li*. Transposons and non-coding regions drive the intrafamily differences of genome size in insects. ***IScience***, 2022, 25:104873. doi: 10.1016/j.isci.2022.104873.
 3. (N30) **Xinhai Ye #(#co-first author)**, Shijiao Xiong#, Ziwen Teng, Yi Yang, Jiale Wang, Kaili Yu, Huizi Wu, Yang Mei, Cheng Xue, Zhichao Yan, Chuanlin Yin, Fang Wang, Hongwei Yao, Qi Fang, Qisheng Song, Gongyin Ye*, Fei Li*. Genome of the parasitoid wasp *Cotesia chilonis* sheds light on amino acid resource exploitation. ***BMC Biology***, 2022, 20(1):118. doi: 10.1186/s12915-022-01313-3
