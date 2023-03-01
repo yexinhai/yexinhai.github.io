@@ -86,6 +86,8 @@ For more detailed information see my [google citations page](https://scholar.goo
 - 2017.07	Best poster in the 3rd International Conference of Insect Genomics (ICIG) and 6th International Symposium on Insect Physiology, Biochemistry and Molecular Biology (IPBMB), Hangzhou, China
 
 ### Grant
+- The Program of National Natural Science Foundation of China (NSFC) (32202376), 2023-2025, 300,000 RMB.
+- The Young Elite Scientists Sponsorship Program by China Association for Science and Technology (2022-2024QNRC001), 2022-2024, 300,000 RMB.
 - The China Postdoctoral Science Foundation (2021M700125), 2022-2023, 120,000 RMB.
 - “Academic Star” Program for Ph.D Student in Zhejiang University (2018-2020), 40,000 RMB.
 
