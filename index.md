@@ -24,6 +24,9 @@ For more detailed information see my [google citations page](https://scholar.goo
 
 **# co-first author, * Corresponding author**
 
+**2023**
+1. (N33) Shan Xiao, **Xinhai Ye**, Shuping Wang, Yi Yang, Qi Fang, Fang Wang & Gongyin Ye*. Genome assembly of the ectoparasitoid wasp *Theocolax elegans*. ***Scientific Data***, 2023, 10, 159. doi: 10.1038/s41597-023-02067-5
+
 **2022**
 1. (N32) **Xinhai Ye #(#co-first author)**, Yi Yang#, Can Zhao#, Shan Xiao, Yu H. Sun, Chun He, Shijiao Xiong, Xianxin Zhao, Bo Zhang, Haiwei Lin, Jiamin Shi, Yang Mei, Hongxing Xu, Qi Fang, Fei Wu, Dunsong Li*, Gongyin Ye*. Genomic signatures associated with maintenance of genome stability and venom turnover in two parasitoid wasps. ***Nature Communications***, 2022, 13, 6417. doi: 10.1038/s41467-022-34202-y
 2. (N31) Yuyang Cong, **Xinhai Ye**, Yang Mei, Kang He, Fei Li*. Transposons and non-coding regions drive the intrafamily differences of genome size in insects. ***IScience***, 2022, 25:104873. doi: 10.1016/j.isci.2022.104873.
