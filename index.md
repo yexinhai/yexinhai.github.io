@@ -26,7 +26,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 
 **2023**
 1. (N34) Jiadan Xu, Bo Li, Zhimin Jiang, Weimin Wang, Yi Yang, Maofa Yang, **Xinhai Ye***. Genomic analyses provide insights into the genome evolution and environmental adaptation of the tobacco moth *Ephestia elutella*. ***Frontiers in Physiology***, 2023, 14:1187522. doi: 10.3389/fphys.2023.1187522
-2. (N33) Shan Xiao, **Xinhai Ye**, Shuping Wang, Yi Yang, Qi Fang, Fang Wang & Gongyin Ye*. Genome assembly of the ectoparasitoid wasp *Theocolax elegans*. ***Scientific Data***, 2023, 10, 159. doi: 10.1038/s41597-023-02067-5
+2. (N33) Shan Xiao, **Xinhai Ye**, Shuping Wang, Yi Yang, Qi Fang, Fang Wang, Gongyin Ye*. Genome assembly of the ectoparasitoid wasp *Theocolax elegans*. ***Scientific Data***, 2023, 10, 159. doi: 10.1038/s41597-023-02067-5
 
 **2022**
 1. (N32) **Xinhai Ye #(#co-first author)**, Yi Yang#, Can Zhao#, Shan Xiao, Yu H. Sun, Chun He, Shijiao Xiong, Xianxin Zhao, Bo Zhang, Haiwei Lin, Jiamin Shi, Yang Mei, Hongxing Xu, Qi Fang, Fei Wu, Dunsong Li*, Gongyin Ye*. Genomic signatures associated with maintenance of genome stability and venom turnover in two parasitoid wasps. ***Nature Communications***, 2022, 13, 6417. doi: 10.1038/s41467-022-34202-y
