@@ -26,7 +26,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 
 **2023**
 1. (N37) Bo Yuan, Yi Yang, Zhichao Yan, Chun He, Yu H. Sun, Fei Wang, Beibei Wang, Jiamin Shi, Shan Xiao, Fang Wang, Qi Fang, Fei Li, **Xinhai Ye***, Gongyin Ye. A rapidly evolving single copy histone H1 variant is associated with male fertility in a parasitoid wasp. ***Frontiers in Cell and Developmental Biology***, 2023, 11: 1166517. doi: 10.3389/fcell.2023.1166517
-2. (N36) Kaili Yu, Jin Chen, Xue Bai, Shijiao Xiong, **Xinhai Ye**, Yi Yang, Hongwei Yao, Fang Wang, Qi Fang, Qisheng Song, Gongyin Ye*. Multi-omic identification of venom proteins collected from artificial hosts of a parasitoid wasp. ***Toxins***, 2023, Accepted.
+2. (N36) Kaili Yu, Jin Chen, Xue Bai, Shijiao Xiong, **Xinhai Ye**, Yi Yang, Hongwei Yao, Fang Wang, Qi Fang, Qisheng Song, Gongyin Ye*. Multi-omic identification of venom proteins collected from artificial hosts of a parasitoid wasp. ***Toxins***, 2023, 15(6): 377. doi: 10.3390/toxins15060377.
 3. (N35) Jiadan Xu, Bo Li, Zhimin Jiang, Weimin Wang, Yi Yang, Maofa Yang, **Xinhai Ye***. Genomic analyses provide insights into the genome evolution and environmental adaptation of the tobacco moth *Ephestia elutella*. ***Frontiers in Physiology***, 2023, 14:1187522. doi: 10.3389/fphys.2023.1187522
 4. (N34) Shan Xiao, **Xinhai Ye**, Shuping Wang, Yi Yang, Qi Fang, Fang Wang, Gongyin Ye*. Genome assembly of the ectoparasitoid wasp *Theocolax elegans*. ***Scientific Data***, 2023, 10, 159. doi: 10.1038/s41597-023-02067-5
 
@@ -102,5 +102,6 @@ For more detailed information see my [google citations page](https://scholar.goo
 Molecular Biology and Evolution, Communications Biology, IScience, Molecular Ecology Resources, BMC Biology, BMC Genomics, G3, Frontiers in Genetics, Frontiers in Veterinary Science, Scientific Reports, PeerJ, Wellcome Open Research, International Journal of Molecular Sciences, Data, Pathogens, Genes, Pest Management Science, Insect Science, Archives of Insect Biochemistry & Physiology, Animal Reproduction
 
 ### Editorial Board
+- Journal of Integrative Agriculture (JIA), Youth Editorial Board, 2023--present
 - Frontiers in Genetics, Review Editor in Livestock Genomics, 2020-present
 - Frontiers in Veterinary Science, Review Editor in Livestock Genomics, 2020-present
