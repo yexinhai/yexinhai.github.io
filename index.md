@@ -102,6 +102,6 @@ For more detailed information see my [google citations page](https://scholar.goo
 Molecular Biology and Evolution, Communications Biology, IScience, Molecular Ecology Resources, BMC Biology, BMC Genomics, G3, Frontiers in Genetics, Frontiers in Veterinary Science, Scientific Reports, PeerJ, Wellcome Open Research, International Journal of Molecular Sciences, Data, Pathogens, Genes, Pest Management Science, Insect Science, Archives of Insect Biochemistry & Physiology, Animal Reproduction
 
 ### Editorial Board
-- Journal of Integrative Agriculture (JIA), Youth Editorial Board, 2023--present
+- Journal of Integrative Agriculture (JIA), Youth Editorial Board, 2023-present
 - Frontiers in Genetics, Review Editor in Livestock Genomics, 2020-present
 - Frontiers in Veterinary Science, Review Editor in Livestock Genomics, 2020-present
