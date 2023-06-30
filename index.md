@@ -25,7 +25,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 **# co-first author, * Corresponding author**
 
 **2023**
-1. (N38) Chun He, **Xinhai Ye***, Yi Yang, Liya Hu, Yuxuan Si, Xianxin Zhao, Longfei Chen, Qi Fang, Ying Wei, Fei Wu*, Gongyin Ye*. DeepAlgPro: an interpretable deep neural network model for predicting allergenic proteins. ***Briefings in Bioinformatics***, 2023, Accepted.
+1. (N38) Chun He, **Xinhai Ye***, Yi Yang, Liya Hu, Yuxuan Si, Xianxin Zhao, Longfei Chen, Qi Fang, Ying Wei, Fei Wu*, Gongyin Ye*. DeepAlgPro: an interpretable deep neural network model for predicting allergenic proteins. ***Briefings in Bioinformatics***, 2023, bbad246. doi: 10.1093/bib/bbad246
 2. (N37) Bo Yuan, Yi Yang, Zhichao Yan, Chun He, Yu H. Sun, Fei Wang, Beibei Wang, Jiamin Shi, Shan Xiao, Fang Wang, Qi Fang, Fei Li, **Xinhai Ye***, Gongyin Ye. A rapidly evolving single copy histone H1 variant is associated with male fertility in a parasitoid wasp. ***Frontiers in Cell and Developmental Biology***, 2023, 11: 1166517. doi: 10.3389/fcell.2023.1166517
 3. (N36) Kaili Yu, Jin Chen, Xue Bai, Shijiao Xiong, **Xinhai Ye**, Yi Yang, Hongwei Yao, Fang Wang, Qi Fang, Qisheng Song, Gongyin Ye*. Multi-omic identification of venom proteins collected from artificial hosts of a parasitoid wasp. ***Toxins***, 2023, 15(6): 377. doi: 10.3390/toxins15060377
 4. (N35) Jiadan Xu, Bo Li, Zhimin Jiang, Weimin Wang, Yi Yang, Maofa Yang, **Xinhai Ye***. Genomic analyses provide insights into the genome evolution and environmental adaptation of the tobacco moth *Ephestia elutella*. ***Frontiers in Physiology***, 2023, 14:1187522. doi: 10.3389/fphys.2023.1187522
