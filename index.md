@@ -25,7 +25,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 **# co-first author, * Corresponding author**
 
 **2023**
-1. (N39) Liya Hu, Yuxuan Si, Jingyuan Chen*, **Xinhai Ye**, Zhihua Wang, Fei Wu*. Attention-based RNA secondary structure prediction. ***CAAI International Conference on Artificial Intelligence (CICAI)***, 2023, Accepted. (Conference Papers).
+1. (N39) Liya Hu, Yuxuan Si, Jingyuan Chen*, **Xinhai Ye**, Zhihua Wang, Fei Wu*. Attention-based RNA secondary structure prediction. ***CAAI International Conference on Artificial Intelligence (CICAI)***, 2023. (Conference Papers).
 2. (N38) Chun He, **Xinhai Ye***, Yi Yang, Liya Hu, Yuxuan Si, Xianxin Zhao, Longfei Chen, Qi Fang, Ying Wei, Fei Wu*, Gongyin Ye*. DeepAlgPro: an interpretable deep neural network model for predicting allergenic proteins. ***Briefings in Bioinformatics***, 2023, bbad246. doi: 10.1093/bib/bbad246
 3. (N37) Bo Yuan, Yi Yang, Zhichao Yan, Chun He, Yu H. Sun, Fei Wang, Beibei Wang, Jiamin Shi, Shan Xiao, Fang Wang, Qi Fang, Fei Li, **Xinhai Ye***, Gongyin Ye. A rapidly evolving single copy histone H1 variant is associated with male fertility in a parasitoid wasp. ***Frontiers in Cell and Developmental Biology***, 2023, 11: 1166517. doi: 10.3389/fcell.2023.1166517
 4. (N36) Kaili Yu, Jin Chen, Xue Bai, Shijiao Xiong, **Xinhai Ye**, Yi Yang, Hongwei Yao, Fang Wang, Qi Fang, Qisheng Song, Gongyin Ye*. Multi-omic identification of venom proteins collected from artificial hosts of a parasitoid wasp. ***Toxins***, 2023, 15(6): 377. doi: 10.3390/toxins15060377
