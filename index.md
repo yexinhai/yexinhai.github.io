@@ -102,7 +102,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 - “Academic Star” Program for Ph.D Student in Zhejiang University (2018-2020), 40,000 RMB.
 
 ### Reviewer
-Molecular Biology and Evolution, Communications Biology, IScience, Molecular Ecology Resources, BMC Biology, BMC Genomics, G3, Frontiers in Genetics, Frontiers in Veterinary Science, Scientific Reports, PeerJ, Wellcome Open Research, International Journal of Molecular Sciences, Data, Pathogens, Genes, Pest Management Science, Insect Science, Archives of Insect Biochemistry & Physiology, Animal Reproduction
+Molecular Biology and Evolution, Communications Biology, IScience, Molecular Ecology Resources, BMC Biology, BMC Genomics, G3, Frontiers in Genetics, Frontiers in Veterinary Science, Scientific Reports, PeerJ, Wellcome Open Research, International Journal of Molecular Sciences, Data, Pathogens, Genes, Pest Management Science, Insect Science, Archives of Insect Biochemistry & Physiology, Animal Reproduction, GigaScience, Genomics Proteomics & Bioinformatics
 
 ### Editorial Board
 - Journal of Integrative Agriculture (JIA), Youth Editorial Board, 2023-present
