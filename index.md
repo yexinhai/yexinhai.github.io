@@ -1,15 +1,17 @@
 ### Main information
 - Ye Xinhai, PhD （叶昕海 博士）
-- Shanghai Institute for Advanced Study, Zhejiang University
-- College of Computer Science and Technology, Zhejiang University
-- Institute of Insect Sciences, Zhejiang University
-- yexinhai@zju.edu.cn
+- College of Advanced Agriculture Science, Zhejiang A&F University
+- yexinhai@zafu.edu.cn
 
 ### Education
 - 2017.09-2021.06	Ph.D student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
 - 2020.01-2021.01 Visiting Ph.D student, Department of Biology, University of Rochester, Rochester, NY, USA. Advised by Prof. John H. Werren (China Scholarship Council, CSC program)
 - 2016.09-2017.06	Master student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Yunlong Yu and Prof. Fei Li
 - 2012.09-2016.06	B.A.(Agr.)(College of Agriculture), B.A. (Art)(College of Foreign Studies), South China Agriculture University, Guangzhou, China. Advised by Prof. Zaifu Xu
+
+### Work experience
+- 2021.07-2023.10 Postdoctoral fellow, College of Computer Science and Technology/Shanghai Institute for Advanced Study, Zhejiang University, China. co-advisor by Prof. Fei Wu.
+- 2023.11-Now Professor, College of Advanced Agriculture Science, Zhejiang A&F University, China.
 
 ### Areas of research interest
 - Parasitoid wasp genomics
