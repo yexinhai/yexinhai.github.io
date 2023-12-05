@@ -27,7 +27,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 **# co-first author, * Corresponding author**
 
 **2023**
-1. (N43) Shijiao Xiong, Kaili Yu, Haiwei Lin, **Xinhai Ye**, Shan Xiao, Yi Yang, David W. Stanley, Qisheng Song, Qi Fang*, Gongyin Ye. Regulatory network in heat stress response in parasitoid wasp focusing on *Xap5 Heat Stress Regulator*. ***IScience***, 2023. doi: 10.1016/j.isci.2023.108622
+1. (N43) Shijiao Xiong, Kaili Yu, Haiwei Lin, **Xinhai Ye**, Shan Xiao, Yi Yang, David W. Stanley, Qisheng Song, Qi Fang*, Gongyin Ye. Regulatory network in heat stress response in parasitoid wasp focusing on *Xap5 Heat Stress Regulator*. ***IScience***, 2023 (in perss). doi: 10.1016/j.isci.2023.108622
 2. (N42) Xu Chen, Yongming Chen, Su Wang, **Xinhai Ye**, Mengyao Chen, Liansheng Zang*. A chromosome-level genome assembly of *Caligula japonica* as a resource for evolutionary studies in Lepidoptera.  ***Entomologia Generalis***, 2023 (in perss). doi: 10.1127/entomologia/2023/2004
 3. (N41) Xue Bai, Kaili Yu, Shijiao Xiong, Jin Chen, Yi Yang, **Xinhai Ye**, Hongwei Yao, Fang Wang, Qi Fang, Qisheng Song, Gongyin Ye*. CRISPR/Cas9-mediated mutagenesis of the white gene in an ectoparasitic wasp, *Habrobracon hebetor*. ***Pest Management Science***, 2023 (in perss). doi: 10.1002/ps.7851
 4. (N40) **Xinhai Ye**, Chun He, Yi Yang, Yu H. Sun, Shijiao Xiong, Kevin C. Chan, Yuxuan Si, Shan Xiao, Xianxin Zhao, Haiwei Lin, Yang Mei, Yufeng Yao, Gongyin Ye*, Fei Wu*, Qi Fang*. Comprehensive isoform-level analysis reveals the contribution of alternative isoforms to venom evolution and repertoire diversity. ***Genome Research***, 2023, 33: 1554-1567. doi: 10.1101/gr.277707.123
