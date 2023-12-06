@@ -1,5 +1,5 @@
 ### Main information
-- Ye Xinhai, PhD （叶昕海 博士）
+- Ye Xinhai, PhD, Professor （叶昕海 博士）
 - College of Advanced Agriculture Science, Zhejiang A&F University
 - yexinhai@zafu.edu.cn
 
