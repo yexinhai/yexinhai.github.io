@@ -27,6 +27,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 **# co-first author, * Corresponding author**
 
 **Select publications:**
+
 1. **Xinhai Ye**, Chun He, Yi Yang, Yu H. Sun, Shijiao Xiong, Kevin C. Chan, Yuxuan Si, Shan Xiao, Xianxin Zhao, Haiwei Lin, Yang Mei, Yufeng Yao, Gongyin Ye*, Fei Wu*, Qi Fang*. Comprehensive isoform-level analysis reveals the contribution of alternative isoforms to venom evolution and repertoire diversity. ***Genome Research***, 2023, 33: 1554-1567. doi: 10.1101/gr.277707.123
 2. **Xinhai Ye #(#co-first author)**, Yi Yang#, Can Zhao#, Shan Xiao, Yu H. Sun, Chun He, Shijiao Xiong, Xianxin Zhao, Bo Zhang, Haiwei Lin, Jiamin Shi, Yang Mei, Hongxing Xu, Qi Fang, Fei Wu, Dunsong Li*, Gongyin Ye*. Genomic signatures associated with maintenance of genome stability and venom turnover in two parasitoid wasps. ***Nature Communications***, 2022, 13, 6417. doi: 10.1038/s41467-022-34202-y
 3. Hongxing Xu#, **Xinhai Ye #(#co-first author)**, Yajun Yang, Yi Yang, Yu H. Sun, Yang Mei, Shijiao Xiong, Kang He, Le Xu, Qi Fang, Fei Li*, Gongyin Ye*, Zhongxian Lu*. Comparative genomics sheds light on the convergent evolution of miniaturized wasps. ***Molecular Biology and Evolution***, 2021, 38(12), 5539–5554, doi: 10.1093/molbev/msab273
@@ -38,6 +39,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 9.  **Xinhai Ye #(#co-first author)**, Le Xu#, Xiang Li#, Kang He#, Hongxia Hua, Zhenghong Cao, Jiadan Xu, Wanyi Ye, Jiao Zhang, Zhuting Yuan, Fei Li*. miR-34 modulates wing polyphenism in planthopper. ***PLOS Genetics***, 2019, 15(6): e1008235. doi: 10.1371/journal.pgen.1008235
 
 **All publications:**
+
 **2023**
 1. (N43) Shijiao Xiong, Kaili Yu, Haiwei Lin, **Xinhai Ye**, Shan Xiao, Yi Yang, David W. Stanley, Qisheng Song, Qi Fang*, Gongyin Ye. Regulatory network in heat stress response in parasitoid wasp focusing on *Xap5 Heat Stress Regulator*. ***IScience***, 2023 (in press). doi: 10.1016/j.isci.2023.108622
 2. (N42) Xu Chen, Yongming Chen, Su Wang, **Xinhai Ye**, Mengyao Chen, Liansheng Zang*. A chromosome-level genome assembly of *Caligula japonica* as a resource for evolutionary studies in Lepidoptera.  ***Entomologia Generalis***, 2023 (in press). doi: 10.1127/entomologia/2023/2004
