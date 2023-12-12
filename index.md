@@ -14,12 +14,11 @@
 - 2023.11-Now Professor, College of Advanced Agriculture Science, Zhejiang A&F University, China.
 
 ### Areas of research interest
-- Parasitoid wasp genomics
-- Comparative genomics
+- Insect genomics, parasitoid wasp genomics
+- The evolution and function of pest control factors of natural enemies (e.g. parasitoid wasps) and their applications in biological control
 - Venom evolution
-- Non-coding RNAs
+- AI for genomics
 - Bioinformatics
-- Entomology
 
 ### Publications
 For more detailed information see my [google citations page](https://scholar.google.com/citations?user=oV39vz0AAAAJ&hl=zh-CN)
@@ -119,6 +118,25 @@ For more detailed information see my [google citations page](https://scholar.goo
 - The Young Elite Scientists Sponsorship Program by China Association for Science and Technology (2022QNRC001), 2022-2024, 300,000 RMB.
 - The China Postdoctoral Science Foundation (2021M700125), 2022-2023, 120,000 RMB.
 - “Academic Star” Program for Ph.D Student in Zhejiang University (2018-2020), 40,000 RMB.
+
+### Talk
+- 寄生蜂比较基因组与毒液快速演化的机制（内蒙古农业大学植物保护学科学术论坛，2023年11月11日，线上，特邀报告）
+- 寄生蜂比较基因组与毒液快速演化的机制（格物致知创新前沿论坛，2023年11月8日，线上，特邀报告）
+- 寄生蜂毒液组分多样化与其快速演化的新机制（希望组“组而论道”学术论坛，2023年10月23日，线上，特邀报告）
+- 寄生蜂基因组与毒液演化（第四届植被病虫害遥感大会，2023年8月19日，内蒙古呼和浩特）
+- 寄生蜂基因组与毒液演化（中国植物保护学会青年科学家沙龙暨青托论坛，2023年6月19日，重庆，特邀报告）
+- 寄生蜂基因组与毒液演化（中国昆虫学会第十一届昆虫生理生化与分子生物学专业委员会2023年学术研讨会，2023年6月16日，广东广州）
+- 寄生蜂基因组与毒液演化（第一届长三角生物信息学大会，2023年4月16日，浙江湖州，特邀报告）
+- 寄生蜂的基因组进化和毒液快速演变（2022年全国害虫生物防治学术研讨会，2022年12月24日，线上）
+- Genome evolution and venom turnover of parasitoid wasps（International Symposium on China-Latin America Biological Control，2022年12月15日，线上，主旨报告）
+- 深度学习在研究生物序列数据隐含知识中的作用（浙江大学何志均先生学术论坛第四期，2022年10月15日，线上）
+- 寄生蜂的基因组研究（浙江大学博士后学术沙龙，2022年9月27日，浙江杭州）
+- 若干寄生蜂的基因组研究（中国昆虫学会2021年学术年会，2021年10月15日，陕西西安）
+- 水稻寄生蜂基因组研究（水稻生物学国家重点实验室第二期青年学术论坛，2021年9月10日，浙江富阳）
+- The genome of endoparasitoid Cotesia chilonis (Hymenoptera: Braconidae)（The 4th International Conference of Insect Genomics (ICIG) and the 7th International Symposium on Insect Physiology, Biochemistry and Molecular Biology (IPBMB)，2019年7月4日，重庆）
+- miR-34 modulates wing polyphenism in planthopper（中国昆虫学会2019年学术年会，2019年8月29日，广西桂林）
+- The genome of endoparasitoid Cotesia chilonis (Hymenoptera: Braconidae)（中国昆虫学会2018年学术年会，2018年8月23日，四川成都）
+- 家蚕的两个乙酰胆碱酯酶基因对其行动能力和发育的影响（浙江省昆虫学会第一届青工委研讨会，2017年11月2日，浙江长兴）
 
 ### Reviewer
 Molecular Biology and Evolution, Communications Biology, IScience, Molecular Ecology Resources, BMC Biology, BMC Genomics, G3, Frontiers in Genetics, Frontiers in Veterinary Science, Scientific Reports, PeerJ, Wellcome Open Research, International Journal of Molecular Sciences, Data, Pathogens, Genes, Pest Management Science, Insect Science, Archives of Insect Biochemistry & Physiology, Animal Reproduction, GigaScience, Genomics Proteomics & Bioinformatics
