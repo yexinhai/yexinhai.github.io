@@ -5,6 +5,7 @@
 
 ### Brief introduction
 叶昕海，2021年获浙江大学博士学位，2023年浙江大学计算机科学与技术博士后出站，同年起担任浙江农林大学现代农学院教授。2020-2021年曾赴美国罗切斯特大学进行博士生联合培养。主要从事昆虫基因组演化与生物信息学相关研究工作，研究方向主要聚焦于昆虫基因组多样性演化、寄生蜂寄生因子演化与功能及其在害虫生物防治中的应用、以及人工智能与基因组学交叉研究。以第一作者或通讯作者（含共同）在Nature Communications、Genome Research、Molecular Biology and Evolution、BMC Biology、Briefings in Bioinformatics、PLoS Genetics、《环境昆虫学报》等国内外知名期刊发表论文14篇。
+
 入选第八届中国科协青年人才托举工程，主持国家自然科学青年基金项目1项、中国博士后科学基金面上（一等）项目1项。参与国家自然科学基金重点项目、国家重点研发计划项目等2项。担任Journal of Integrative Agriculture杂志青年编委、Frontiers in Genetics杂志审稿编委。长期担任Molecular Biology and Evolution、Insect Science等相关专业领域学术期刊的同行评议专家。多次参与中国昆虫学会学术年会、中国植物保护学会青年科学家沙龙、植被病虫害遥感大会等国内外重要学术会议并作报告。
 
 ### Education
