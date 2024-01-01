@@ -150,3 +150,4 @@ Molecular Biology and Evolution, Communications Biology, IScience, Molecular Eco
 - Journal of Integrative Agriculture (JIA), Youth Editorial Board, 2023-present
 - Frontiers in Genetics, Review Editor in Livestock Genomics, 2020-present
 - Frontiers in Veterinary Science, Review Editor in Livestock Genomics, 2020-present
+- Chinese Journal of Applied Entomology 《应用昆虫学报》, Youth Editorial Board, 2024-present
