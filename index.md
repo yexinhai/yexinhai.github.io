@@ -45,7 +45,8 @@ For more detailed information see my [google citations page](https://scholar.goo
 **All publications:**
 
 **2024**
-1. (N44) Yu Yemin, Yuan Luotian, Wei Ying*, Gao Hanyu, **Ye Xinhai**, Wang Zhihua, Wu Fei*. RetroOOD: Understanding Out-of-Distribution Generalization in Retrosynthesis Prediction, ***AAAI***, 2024.(Conference Papers).
+1. (N45) Zhang Bo, Chen Longfei, Xiao Shan, Dong Cong, Wang Fang, Fang Qi, **Ye Xinhai**, Stanley David W., Ye Gongyin. iSalivaomicDB: A comprehensive saliva omics database for insects, ***Insect Science***, 2024. (in press). doi: 10.1111/1744-7917.13349
+2. (N44) Yu Yemin, Yuan Luotian, Wei Ying*, Gao Hanyu, **Ye Xinhai**, Wang Zhihua, Wu Fei*. RetroOOD: Understanding Out-of-Distribution Generalization in Retrosynthesis Prediction, ***AAAI***, 2024.(Conference Papers).
 
 **2023**
 1. (N43) Xiong Shijiao, Yu Kaili, Lin Haiwei, **Ye Xinhai**, Xiao Shan, Yang Yi, Stanley David W., Song Qisheng, Fang Qi*, Ye Gongyin. Regulatory network in heat stress response in parasitoid wasp focusing on *Xap5 Heat Stress Regulator*. ***IScience***, 2023, 27(1):108622. doi: 10.1016/j.isci.2023.108622
