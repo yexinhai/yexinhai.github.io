@@ -44,10 +44,11 @@ For more detailed information see my [google citations page](https://scholar.goo
 
 **All publications:**
 **2024**
-1. (N46) Yang Yi, Xiao Shan, Zhao Xianxin, Sun Yu H., Qi Fang, Fan longjiang, Ye Gongyin, **Ye Xinhai***. Host and venom evolution in parasitoid wasps: does independently adapting to the same host shape the evolution of the venom gland transcriptome? ***BMC Biology***, 2024, 22:173. doi: 10.1186/s12915-024-01974-2
-2. (N45) Zhang Bo, Chen Longfei, Xiao Shan, Dong Cong, Wang Fang, Fang Qi, **Ye Xinhai**, Stanley David W., Ye Gongyin. iSalivaomicDB: A comprehensive saliva omics database for insects, ***Insect Science***, 2024. (in press). doi: 10.1111/1744-7917.13349
-3. (N44) Bai Xue, Yu Kaili, Xiong Shijiao, Chen Jin, Yang Yi, **Ye Xinhai**, Yao Hongwei, Wang Fang, Fang Qi, Song Qisheng, Ye Gongyin*. CRISPR/Cas9-mediated mutagenesis of the white gene in an ectoparasitic wasp, *Habrobracon hebetor*. ***Pest Management Science***, 2024, 80(3):1219-1227. doi: 10.1002/ps.7851
-4. (N43) Yu Yemin, Yuan Luotian, Wei Ying*, Gao Hanyu, **Ye Xinhai**, Wang Zhihua, Wu Fei*. RetroOOD: Understanding Out-of-Distribution Generalization in Retrosynthesis Prediction, ***AAAI***, 2024.(Conference Papers).
+1. (N47) Yang Yi, Xiao Shan, Zhao Xianxin, Sun Yu H., Qi Fang, Fan longjiang, Ye Gongyin, **Ye Xinhai***. Host and venom evolution in parasitoid wasps: does independently adapting to the same host shape the evolution of the venom gland transcriptome? ***BMC Biology***, 2024, 22:173. doi: 10.1186/s12915-024-01974-2
+2. (N46) Castaño, M.I., **Ye Xinhai**, Uy, F.M.K. First genome assembly of the order Strepsiptera using PacBio HiFi reads reveals a miniature genome. ***Scientific Data***, 2024, 11, 934. doi:10.1038/s41597-024-03808-w
+3. (N45) Zhang Bo, Chen Longfei, Xiao Shan, Dong Cong, Wang Fang, Fang Qi, **Ye Xinhai**, Stanley David W., Ye Gongyin. iSalivaomicDB: A comprehensive saliva omics database for insects, ***Insect Science***, 2024. (in press). doi: 10.1111/1744-7917.13349
+4. (N44) Bai Xue, Yu Kaili, Xiong Shijiao, Chen Jin, Yang Yi, **Ye Xinhai**, Yao Hongwei, Wang Fang, Fang Qi, Song Qisheng, Ye Gongyin*. CRISPR/Cas9-mediated mutagenesis of the white gene in an ectoparasitic wasp, *Habrobracon hebetor*. ***Pest Management Science***, 2024, 80(3):1219-1227. doi: 10.1002/ps.7851
+5. (N43) Yu Yemin, Yuan Luotian, Wei Ying*, Gao Hanyu, **Ye Xinhai**, Wang Zhihua, Wu Fei*. RetroOOD: Understanding Out-of-Distribution Generalization in Retrosynthesis Prediction, ***AAAI***, 2024.(Conference Papers).
 
 **2023**
 1. (N42) Xiong Shijiao, Yu Kaili, Lin Haiwei, **Ye Xinhai**, Xiao Shan, Yang Yi, Stanley David W., Song Qisheng, Fang Qi*, Ye Gongyin. Regulatory network in heat stress response in parasitoid wasp focusing on *Xap5 Heat Stress Regulator*. ***IScience***, 2023, 27(1):108622. doi: 10.1016/j.isci.2023.108622
