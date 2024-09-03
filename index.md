@@ -4,9 +4,9 @@
 - yexinhai@zafu.edu.cn
 
 ### Brief introduction
-叶昕海，2021年获浙江大学博士学位，2023年浙江大学计算机科学与技术博士后出站，同年起担任浙江农林大学现代农学院教授。2020-2021年曾赴美国罗切斯特大学进行博士生联合培养。主要从事昆虫基因组演化与生物信息学相关研究工作，研究方向主要聚焦于昆虫基因组多样性演化、寄生蜂寄生因子演化与功能及其在害虫生物防治中的应用、以及人工智能与基因组学交叉研究。以第一作者或通讯作者（含共同）在Nature Communications、Genome Research、Molecular Biology and Evolution、BMC Biology、Briefings in Bioinformatics、PLoS Genetics、《环境昆虫学报》等国内外知名期刊发表论文14篇。
+叶昕海，2021年获浙江大学博士学位，2023年浙江大学计算机科学与技术博士后出站，同年起担任浙江农林大学现代农学院教授。2020-2021年曾赴美国罗切斯特大学进行博士生联合培养。主要从事昆虫基因组演化与生物信息学相关研究工作，研究方向主要聚焦于昆虫基因组多样性演化、寄生蜂寄生因子演化与功能及其在害虫生物防治中的应用、以及人工智能与基因组学交叉研究。先后在Nature Communications、Genome Research、Molecular Biology and Evolution、Trends in Parasitology、BMC Biology、Briefings in Bioinformatics等国内外期刊发表论文40余篇。
 
-入选第八届中国科协青年人才托举工程，主持国家自然科学青年基金项目1项、中国博士后科学基金面上（一等）项目1项。参与国家自然科学基金重点项目、国家重点研发计划项目等2项。担任Journal of Integrative Agriculture杂志青年编委、Frontiers in Genetics杂志审稿编委、《应用昆虫学报》青年编委。长期担任Molecular Biology and Evolution、Insect Science等相关专业领域学术期刊的同行评议专家。多次参与中国昆虫学会学术年会、中国植物保护学会青年科学家沙龙、植被病虫害遥感大会等国内外重要学术会议并作报告。
+入选第八届中国科协青年人才托举工程，主持国家自然科学基金面上项目、青年基金项目、中国博士后科学基金面上（一等）项目。参与国家自然科学基金重点项目、国家重点研发计划等项目。任植物保护学报、应用昆虫学报、Journal of Integrative Agriculture、Agriculture Communications和New Plant Protection期刊青年编委。长期担任Molecular Biology and Evolution、Insect Science等相关专业领域学术期刊的同行评议专家。多次参与中国昆虫学会学术年会、中国植物保护学会青年科学家沙龙、植被病虫害遥感大会等国内外重要学术会议并作报告。
 
 ### Education
 - 2017.09-2021.06	Ph.D student (Institute of Insect Sciences), College of Agriculture and Biotechnology, Zhejiang University, China. Advised by Prof. Fei Li
@@ -32,23 +32,25 @@ For more detailed information see my [google citations page](https://scholar.goo
 
 **Select publications:**
 
-1. **Ye Xinhai**, He Chun, Yang Yi, Sun Yu H., Xiong Shijiao, Chan Kevin C., Si Yuxuan, Xiao Shan, Zhao Xianxin, Lin Haiwei, Mei Yang, Yao Yufeng, Ye Gongyin*, Wu Fei*, Fang Qi*. Comprehensive isoform-level analysis reveals the contribution of alternative isoforms to venom evolution and repertoire diversity. ***Genome Research***, 2023, 33(9):1554-1567. doi: 10.1101/gr.277707.123
-2. **Ye Xinhai#(#co-first author)**, Yang Yi#, Zhao Can#, Xiao Shan, Sun Yu H., He Chun, Xiong Shijiao, Zhao Xianxin, Zhang Bo, Lin Haiwei, Shi Jiamin, Mei Yang, Xu Hongxing, Fang Qi, Wu Fei, Li Dunsong*, Ye Gongyin*. Genomic signatures associated with maintenance of genome stability and venom turnover in two parasitoid wasps. ***Nature Communications***, 2022, 13(1):6417. doi: 10.1038/s41467-022-34202-y
-3. Xu Hongxing#, **Ye Xinhai#(#co-first author)**, Yang Yajun, Yang Yi, Sun Yu H., Mei Yang, Xiong Shijiao, He Kang, Xu Le, Fang Qi, Li Fei*, Ye Gongyin*, Lu Zhongxian*. Comparative genomics sheds light on the convergent evolution of miniaturized wasps. ***Molecular Biology and Evolution***, 2021, 38(12): 5539–5554, doi: 10.1093/molbev/msab273
-4. He Chun, **Ye Xinhai***, Yang Yi, Hu Liya, Si Yuxuan, Zhao Xianxin, Chen Longfei, Fang Qi, Wei Ying, Wu Fei*, Ye Gongyin*. DeepAlgPro: an interpretable deep neural network model for predicting allergenic proteins. ***Briefings in Bioinformatics***, 2023, 24(4):bbad246. doi: 10.1093/bib/bbad246
-5. **Ye Xinhai #(#co-first author)**, Xiong Shijiao#, Teng Ziwen, Yang Yi, Wang Jiale, Yu Kaili, Wu Huizi, Mei Yang, Xue Cheng, Yan Zhichao, Yin Chuanlin, Wang Fang, Yao Hongwei, Fang Qi, Song Qisheng, Ye Gongyin*, Li Fei*. Genome of the parasitoid wasp *Cotesia chilonis* sheds light on amino acid resource exploitation. ***BMC Biology***, 2022, 20(1):118. doi: 10.1186/s12915-022-01313-3
-6. Yang Yi#, **Ye Xinhai#(#co-first author)**, Dang Cong, Cao Yunsheng, Hong Rui, Sun Yu H., Xiao Shan, Mei Yang, Xu Le, Fang Qi, Xiao Huamei, Li Fei, Ye Gongyin*. Genome of the pincer wasp *Gonatopus flavifemur* reveals unique venom evolution and a dual adaptation to parasitism and predation. ***BMC Biology***, 2021, 19(1):145. doi: 10.1186/s12915-021-01081-6
-7. **Ye Xinhai#(#co-first author)**, Yan Zhichao#, Yang Yi#, Xiao Shan, Chen Longfei, Wang Jiale, Wang Fei, Xiong Shijiao, Mei Yang, Wang Fang, Yao Hongwei, Song Qisheng, Li Fei, Fang Qi*, Werren John H.\*, Ye Gongyin*. A chromosome‐level genome assembly of the parasitoid wasp *Pteromalus puparum*. ***Molecular Ecology Resources***, 2020, 20(5):1384–1402. doi: 10.1111/1755-0998.13206
-8.  Xiao Huamei#\*, **Ye Xinhai#(#co-first author)**, Xu Hongxing#, Mei Yang#, Yang Yi, Chen Xi, Yang Yajun, Liu Tao*, Yu Yongyi, Yang Weifei, Lu Zhongxian, Li Fei*. The genetic adaptations of fall armyworm *Spodoptera frugiperda* facilitated its rapid global dispersal and invasion. ***Molecular Ecology Resources***, 2020, 20(4):1050–1068. doi: 10.1111/1755‐0998.13182
-9.  **Ye Xinhai#(#co-first author)**, Xu Le#, Li Xiang#, He Kang#, Hua Hongxia, Cao Zhenghong, Xu Jiadan, Ye Wanyi, Zhang Jiao, Yuan Zhuting, Li Fei*. miR-34 modulates wing polyphenism in planthopper. ***PLOS Genetics***, 2019, 15(6):e1008235. doi: 10.1371/journal.pgen.1008235
+1. **Ye Xinhai***, Yang Yi, Zhao Xianxin, Fang Qi, Ye Gongyin*. The state of parasitoid wasp genomics. ***Trends in Parasitology***, 2024, in press. doi: 10.1016/j.pt.2024.08.003
+2. **Ye Xinhai**, He Chun, Yang Yi, Sun Yu H., Xiong Shijiao, Chan Kevin C., Si Yuxuan, Xiao Shan, Zhao Xianxin, Lin Haiwei, Mei Yang, Yao Yufeng, Ye Gongyin*, Wu Fei*, Fang Qi*. Comprehensive isoform-level analysis reveals the contribution of alternative isoforms to venom evolution and repertoire diversity. ***Genome Research***, 2023, 33(9):1554-1567. doi: 10.1101/gr.277707.123
+3. **Ye Xinhai#(#co-first author)**, Yang Yi#, Zhao Can#, Xiao Shan, Sun Yu H., He Chun, Xiong Shijiao, Zhao Xianxin, Zhang Bo, Lin Haiwei, Shi Jiamin, Mei Yang, Xu Hongxing, Fang Qi, Wu Fei, Li Dunsong*, Ye Gongyin*. Genomic signatures associated with maintenance of genome stability and venom turnover in two parasitoid wasps. ***Nature Communications***, 2022, 13(1):6417. doi: 10.1038/s41467-022-34202-y
+4. Xu Hongxing#, **Ye Xinhai#(#co-first author)**, Yang Yajun, Yang Yi, Sun Yu H., Mei Yang, Xiong Shijiao, He Kang, Xu Le, Fang Qi, Li Fei*, Ye Gongyin*, Lu Zhongxian*. Comparative genomics sheds light on the convergent evolution of miniaturized wasps. ***Molecular Biology and Evolution***, 2021, 38(12): 5539–5554, doi: 10.1093/molbev/msab273
+5. He Chun, **Ye Xinhai***, Yang Yi, Hu Liya, Si Yuxuan, Zhao Xianxin, Chen Longfei, Fang Qi, Wei Ying, Wu Fei*, Ye Gongyin*. DeepAlgPro: an interpretable deep neural network model for predicting allergenic proteins. ***Briefings in Bioinformatics***, 2023, 24(4):bbad246. doi: 10.1093/bib/bbad246
+6. **Ye Xinhai #(#co-first author)**, Xiong Shijiao#, Teng Ziwen, Yang Yi, Wang Jiale, Yu Kaili, Wu Huizi, Mei Yang, Xue Cheng, Yan Zhichao, Yin Chuanlin, Wang Fang, Yao Hongwei, Fang Qi, Song Qisheng, Ye Gongyin*, Li Fei*. Genome of the parasitoid wasp *Cotesia chilonis* sheds light on amino acid resource exploitation. ***BMC Biology***, 2022, 20(1):118. doi: 10.1186/s12915-022-01313-3
+7. Yang Yi#, **Ye Xinhai#(#co-first author)**, Dang Cong, Cao Yunsheng, Hong Rui, Sun Yu H., Xiao Shan, Mei Yang, Xu Le, Fang Qi, Xiao Huamei, Li Fei, Ye Gongyin*. Genome of the pincer wasp *Gonatopus flavifemur* reveals unique venom evolution and a dual adaptation to parasitism and predation. ***BMC Biology***, 2021, 19(1):145. doi: 10.1186/s12915-021-01081-6
+8. **Ye Xinhai#(#co-first author)**, Yan Zhichao#, Yang Yi#, Xiao Shan, Chen Longfei, Wang Jiale, Wang Fei, Xiong Shijiao, Mei Yang, Wang Fang, Yao Hongwei, Song Qisheng, Li Fei, Fang Qi*, Werren John H.\*, Ye Gongyin*. A chromosome‐level genome assembly of the parasitoid wasp *Pteromalus puparum*. ***Molecular Ecology Resources***, 2020, 20(5):1384–1402. doi: 10.1111/1755-0998.13206
+9.  Xiao Huamei#\*, **Ye Xinhai#(#co-first author)**, Xu Hongxing#, Mei Yang#, Yang Yi, Chen Xi, Yang Yajun, Liu Tao*, Yu Yongyi, Yang Weifei, Lu Zhongxian, Li Fei*. The genetic adaptations of fall armyworm *Spodoptera frugiperda* facilitated its rapid global dispersal and invasion. ***Molecular Ecology Resources***, 2020, 20(4):1050–1068. doi: 10.1111/1755‐0998.13182
+10.  **Ye Xinhai#(#co-first author)**, Xu Le#, Li Xiang#, He Kang#, Hua Hongxia, Cao Zhenghong, Xu Jiadan, Ye Wanyi, Zhang Jiao, Yuan Zhuting, Li Fei*. miR-34 modulates wing polyphenism in planthopper. ***PLOS Genetics***, 2019, 15(6):e1008235. doi: 10.1371/journal.pgen.1008235
 
 **All publications:**
 **2024**
-1. (N47) Yang Yi, Xiao Shan, Zhao Xianxin, Sun Yu H., Qi Fang, Fan longjiang, Ye Gongyin, **Ye Xinhai***. Host and venom evolution in parasitoid wasps: does independently adapting to the same host shape the evolution of the venom gland transcriptome? ***BMC Biology***, 2024, 22:173. doi: 10.1186/s12915-024-01974-2
-2. (N46) Castaño, M.I., **Ye Xinhai**, Uy, F.M.K. First genome assembly of the order Strepsiptera using PacBio HiFi reads reveals a miniature genome. ***Scientific Data***, 2024, 11, 934. doi:10.1038/s41597-024-03808-w
-3. (N45) Zhang Bo, Chen Longfei, Xiao Shan, Dong Cong, Wang Fang, Fang Qi, **Ye Xinhai**, Stanley David W., Ye Gongyin. iSalivaomicDB: A comprehensive saliva omics database for insects, ***Insect Science***, 2024. (in press). doi: 10.1111/1744-7917.13349
-4. (N44) Bai Xue, Yu Kaili, Xiong Shijiao, Chen Jin, Yang Yi, **Ye Xinhai**, Yao Hongwei, Wang Fang, Fang Qi, Song Qisheng, Ye Gongyin*. CRISPR/Cas9-mediated mutagenesis of the white gene in an ectoparasitic wasp, *Habrobracon hebetor*. ***Pest Management Science***, 2024, 80(3):1219-1227. doi: 10.1002/ps.7851
-5. (N43) Yu Yemin, Yuan Luotian, Wei Ying*, Gao Hanyu, **Ye Xinhai**, Wang Zhihua, Wu Fei*. RetroOOD: Understanding Out-of-Distribution Generalization in Retrosynthesis Prediction, ***AAAI***, 2024.(Conference Papers).
+1. (N48) **Ye Xinhai***, Yang Yi, Zhao Xianxin, Fang Qi, Ye Gongyin*. The state of parasitoid wasp genomics. ***Trends in Parasitology***, 2024, in press. doi: 10.1016/j.pt.2024.08.003
+2. (N47) Yang Yi, Xiao Shan, Zhao Xianxin, Sun Yu H., Qi Fang, Fan longjiang, Ye Gongyin, **Ye Xinhai***. Host and venom evolution in parasitoid wasps: does independently adapting to the same host shape the evolution of the venom gland transcriptome? ***BMC Biology***, 2024, 22:173. doi: 10.1186/s12915-024-01974-2
+3. (N46) Castaño, M.I., **Ye Xinhai**, Uy, F.M.K. First genome assembly of the order Strepsiptera using PacBio HiFi reads reveals a miniature genome. ***Scientific Data***, 2024, 11, 934. doi:10.1038/s41597-024-03808-w
+4. (N45) Zhang Bo, Chen Longfei, Xiao Shan, Dong Cong, Wang Fang, Fang Qi, **Ye Xinhai**, Stanley David W., Ye Gongyin. iSalivaomicDB: A comprehensive saliva omics database for insects, ***Insect Science***, 2024. (in press). doi: 10.1111/1744-7917.13349
+5. (N44) Bai Xue, Yu Kaili, Xiong Shijiao, Chen Jin, Yang Yi, **Ye Xinhai**, Yao Hongwei, Wang Fang, Fang Qi, Song Qisheng, Ye Gongyin*. CRISPR/Cas9-mediated mutagenesis of the white gene in an ectoparasitic wasp, *Habrobracon hebetor*. ***Pest Management Science***, 2024, 80(3):1219-1227. doi: 10.1002/ps.7851
+6. (N43) Yu Yemin, Yuan Luotian, Wei Ying*, Gao Hanyu, **Ye Xinhai**, Wang Zhihua, Wu Fei*. RetroOOD: Understanding Out-of-Distribution Generalization in Retrosynthesis Prediction, ***AAAI***, 2024.(Conference Papers).
 
 **2023**
 1. (N42) Xiong Shijiao, Yu Kaili, Lin Haiwei, **Ye Xinhai**, Xiao Shan, Yang Yi, Stanley David W., Song Qisheng, Fang Qi*, Ye Gongyin. Regulatory network in heat stress response in parasitoid wasp focusing on *Xap5 Heat Stress Regulator*. ***IScience***, 2023, 27(1):108622. doi: 10.1016/j.isci.2023.108622
@@ -124,12 +126,15 @@ For more detailed information see my [google citations page](https://scholar.goo
 - 2017.07	Best poster in the 3rd International Conference of Insect Genomics (ICIG) and 6th International Symposium on Insect Physiology, Biochemistry and Molecular Biology (IPBMB), Hangzhou, China
 
 ### Grant
+- The Program of National Natural Science Foundation of China (NSFC) (xxxxxxxx), 2025-2028, 500,000 RMB.
 - The Program of National Natural Science Foundation of China (NSFC) (32202376), 2023-2025, 300,000 RMB.
 - The Young Elite Scientists Sponsorship Program by China Association for Science and Technology (2022QNRC001), 2022-2024, 300,000 RMB.
 - The China Postdoctoral Science Foundation (2021M700125), 2022-2023, 120,000 RMB.
 - “Academic Star” Program for Ph.D Student in Zhejiang University (2018-2020), 40,000 RMB.
 
 ### Talk
+- 寄生蜂比较基因组研究（江西省农业科学院学术交流，2024年8月21日，江西南昌）
+- 寄生蜂比较基因组研究（植物保护学青年科学家“青稞论坛”暨《植物保护学报》首届青年编委会成立大会，2024年5月11日，北京）
 - 寄生蜂比较基因组与毒液演化研究（浙江省生物信息学会年会，2023年12月28日，浙江杭州）
 - 寄生蜂比较基因组与毒液快速演化的机制（内蒙古农业大学植物保护学科学术论坛，2023年11月11日，线上，特邀报告）
 - 寄生蜂比较基因组与毒液快速演化的机制（格物致知创新前沿论坛，2023年11月8日，线上，特邀报告）
@@ -154,7 +159,10 @@ For more detailed information see my [google citations page](https://scholar.goo
 Molecular Biology and Evolution, Communications Biology, IScience, Molecular Ecology Resources, BMC Biology, BMC Genomics, G3, Frontiers in Genetics, Frontiers in Veterinary Science, Scientific Reports, PeerJ, Wellcome Open Research, International Journal of Molecular Sciences, Data, Pathogens, Genes, Pest Management Science, Insect Science, Archives of Insect Biochemistry & Physiology, Animal Reproduction, GigaScience, Genomics Proteomics & Bioinformatics
 
 ### Editorial Board
+- Agriculture Communications, Youth Editorial Board
+- New Plant Protection, Youth Editorial Board
 - Journal of Integrative Agriculture (JIA), Youth Editorial Board, 2023-present
 - Frontiers in Genetics, Review Editor in Livestock Genomics, 2020-present
 - Frontiers in Veterinary Science, Review Editor in Livestock Genomics, 2020-present
+- Journal of Plant Protection 《植物保护学报》, Youth Editorial Board, 2024-present
 - Chinese Journal of Applied Entomology 《应用昆虫学报》, Youth Editorial Board, 2024-present
