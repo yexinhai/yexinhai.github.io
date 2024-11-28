@@ -135,6 +135,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 - “Academic Star” Program for Ph.D Student in Zhejiang University (2018-2020), 40,000 RMB.
 
 ### Talk
+- 寄生蜂比较基因组研究（中国昆虫学会2024年学术年会，2024年10月13日，重庆）
 - 寄生蜂比较基因组研究（江西省农业科学院学术交流，2024年8月21日，江西南昌）
 - 寄生蜂比较基因组研究（植物保护学青年科学家“青稞论坛”暨《植物保护学报》首届青年编委会成立大会，2024年5月11日，北京）
 - 寄生蜂比较基因组与毒液演化研究（浙江省生物信息学会年会，2023年12月28日，浙江杭州）
