@@ -33,7 +33,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 **Select publications:**
 
 1. **Ye Xinhai***, Yang Yi, Zhao Xianxin, Fang Qi, Ye Gongyin*. The state of parasitoid wasp genomics. ***Trends in Parasitology***, 2024, 40(10):914-929. doi: 10.1016/j.pt.2024.08.003
-2. **Ye Xinhai***, Yang Yi, Fang Qi, Ye Gongyin*. Genomics of insect natural enemies in agroecosystems. ***Current Opinion in Insect Science***, 2024, in press. doi: 10.1016/j.cois.2024.101298
+2. **Ye Xinhai***, Yang Yi, Fang Qi, Ye Gongyin. Genomics of insect natural enemies in agroecosystems. ***Current Opinion in Insect Science***, 2024, in press. doi: 10.1016/j.cois.2024.101298
 3. **Ye Xinhai**, He Chun, Yang Yi, Sun Yu H., Xiong Shijiao, Chan Kevin C., Si Yuxuan, Xiao Shan, Zhao Xianxin, Lin Haiwei, Mei Yang, Yao Yufeng, Ye Gongyin*, Wu Fei*, Fang Qi*. Comprehensive isoform-level analysis reveals the contribution of alternative isoforms to venom evolution and repertoire diversity. ***Genome Research***, 2023, 33(9):1554-1567. doi: 10.1101/gr.277707.123
 4. **Ye Xinhai#(#co-first author)**, Yang Yi#, Zhao Can#, Xiao Shan, Sun Yu H., He Chun, Xiong Shijiao, Zhao Xianxin, Zhang Bo, Lin Haiwei, Shi Jiamin, Mei Yang, Xu Hongxing, Fang Qi, Wu Fei, Li Dunsong*, Ye Gongyin*. Genomic signatures associated with maintenance of genome stability and venom turnover in two parasitoid wasps. ***Nature Communications***, 2022, 13(1):6417. doi: 10.1038/s41467-022-34202-y
 5. Xu Hongxing#, **Ye Xinhai#(#co-first author)**, Yang Yajun, Yang Yi, Sun Yu H., Mei Yang, Xiong Shijiao, He Kang, Xu Le, Fang Qi, Li Fei*, Ye Gongyin*, Lu Zhongxian*. Comparative genomics sheds light on the convergent evolution of miniaturized wasps. ***Molecular Biology and Evolution***, 2021, 38(12): 5539–5554, doi: 10.1093/molbev/msab273
@@ -46,7 +46,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 
 **All publications:**
 **2024**
-1. (N49)**Ye Xinhai***, Yang Yi, Fang Qi, Ye Gongyin*. Genomics of insect natural enemies in agroecosystems. ***Current Opinion in Insect Science***, 2024, in press. doi: 10.1016/j.cois.2024.101298
+1. (N49)**Ye Xinhai***, Yang Yi, Fang Qi, Ye Gongyin. Genomics of insect natural enemies in agroecosystems. ***Current Opinion in Insect Science***, 2024, in press. doi: 10.1016/j.cois.2024.101298
 2. (N48) **Ye Xinhai***, Yang Yi, Zhao Xianxin, Fang Qi, Ye Gongyin*. The state of parasitoid wasp genomics. ***Trends in Parasitology***, 2024, in press. doi: 10.1016/j.pt.2024.08.003
 3. (N47) Yang Yi, Xiao Shan, Zhao Xianxin, Sun Yu H., Qi Fang, Fan longjiang, Ye Gongyin, **Ye Xinhai***. Host and venom evolution in parasitoid wasps: does independently adapting to the same host shape the evolution of the venom gland transcriptome? ***BMC Biology***, 2024, 22:173. doi: 10.1186/s12915-024-01974-2
 4. (N46) Castaño, M.I., **Ye Xinhai**, Uy, F.M.K. First genome assembly of the order Strepsiptera using PacBio HiFi reads reveals a miniature genome. ***Scientific Data***, 2024, 11, 934. doi:10.1038/s41597-024-03808-w
