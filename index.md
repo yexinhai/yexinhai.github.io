@@ -45,6 +45,9 @@ For more detailed information see my [google citations page](https://scholar.goo
 11.  **Ye Xinhai#(#co-first author)**, Xu Le#, Li Xiang#, He Kang#, Hua Hongxia, Cao Zhenghong, Xu Jiadan, Ye Wanyi, Zhang Jiao, Yuan Zhuting, Li Fei*. miR-34 modulates wing polyphenism in planthopper. ***PLOS Genetics***, 2019, 15(6):e1008235. doi: 10.1371/journal.pgen.1008235
 
 **All publications:**
+**2025**
+1. (N51)Lai Youpeng, Xiao Shan, Qin Minggang, **Ye Xinhai**, Wang Fang, Fang Qi*. Genome assembly of the grassland caterpillar *Gynaephora qinghaiensis*. ***Scientific Data***, 2025, 12, 158. doi: 10.1038/s41597-025-04466-2
+
 **2024**
 1. (N50)Yu Kaili, Zhang Juefeng, Chen Jin, Li Fang, Bai Xue, Xiong Shijiao, **Ye Xinhai**, Zhong Haiying, Wang Fang, Yao Hongwei, Fang Qi, Xu Hongxing, Song Qisheng, Ye Gongyin. Parasitism by the ectoparasitioid, *Habrobracon hebetor* alters the development and expression patterns of genes related to hormone synthesis and regulation process in its hosts. ***Entomologia Generalis***, 2024, 44(6):1525-1535. doi: 10.1127/entomologia/2024/2747
 2. (N49)**Ye Xinhai***, Yang Yi, Fang Qi, Ye Gongyin. Genomics of insect natural enemies in agroecosystems. ***Current Opinion in Insect Science***, 2024, in press. doi: 10.1016/j.cois.2024.101298
