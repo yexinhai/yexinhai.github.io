@@ -45,6 +45,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 11.  **Ye Xinhai#(#co-first author)**, Xu Le#, Li Xiang#, He Kang#, Hua Hongxia, Cao Zhenghong, Xu Jiadan, Ye Wanyi, Zhang Jiao, Yuan Zhuting, Li Fei*. miR-34 modulates wing polyphenism in planthopper. ***PLOS Genetics***, 2019, 15(6):e1008235. doi: 10.1371/journal.pgen.1008235
 
 **All publications:**
+
 **2025**
 1. (N51)Lai Youpeng, Xiao Shan, Qin Minggang, **Ye Xinhai**, Wang Fang, Fang Qi*. Genome assembly of the grassland caterpillar *Gynaephora qinghaiensis*. ***Scientific Data***, 2025, 12, 158. doi: 10.1038/s41597-025-04466-2
 
