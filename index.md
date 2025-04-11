@@ -47,7 +47,8 @@ For more detailed information see my [google citations page](https://scholar.goo
 **All publications:**
 
 **2025**
-1. (N51)Lai Youpeng, Xiao Shan, Qin Minggang, **Ye Xinhai**, Wang Fang, Fang Qi*. Genome assembly of the grassland caterpillar *Gynaephora qinghaiensis*. ***Scientific Data***, 2025, 12, 158. doi: 10.1038/s41597-025-04466-2
+1. (N52)Zhao Xianxin, Liu Yuanyuan, **Ye Xinhai**, Wang Fang, Fang Qi, Ye Gongyin. Chromosome-level genome assembly of an endoparasitoid *Cotesia ruficrus*. ***Scientific Data***, 2025, 12, 508. doi: 10.1038/s41597-025-04837-9
+2. (N51)Lai Youpeng, Xiao Shan, Qin Minggang, **Ye Xinhai**, Wang Fang, Fang Qi*. Genome assembly of the grassland caterpillar *Gynaephora qinghaiensis*. ***Scientific Data***, 2025, 12, 158. doi: 10.1038/s41597-025-04466-2
 
 **2024**
 1. (N50)Yu Kaili, Zhang Juefeng, Chen Jin, Li Fang, Bai Xue, Xiong Shijiao, **Ye Xinhai**, Zhong Haiying, Wang Fang, Yao Hongwei, Fang Qi, Xu Hongxing, Song Qisheng, Ye Gongyin. Parasitism by the ectoparasitioid, *Habrobracon hebetor* alters the development and expression patterns of genes related to hormone synthesis and regulation process in its hosts. ***Entomologia Generalis***, 2024, 44(6):1525-1535. doi: 10.1127/entomologia/2024/2747
