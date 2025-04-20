@@ -32,7 +32,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 
 **Select publications:**
 
-1. Zhao Xianxin, Liu Yuanyuan, Bo Yuan, Zhichao Cao, Yi Yang, Chun He, Kevin C Chan, Shan Xiao, Haiwei Lin, Qi Fang, Gongyin Ye*, ***Xinhai Ye***. Genomic signatures associated with the evolutionary loss of egg yolk in parasitoid wasps. ***Proceedings of the National Academy of Sciences***, 2025, 122(16), e2422292122. doi: 10.1073/pnas.2422292122
+1. Zhao Xianxin, Liu Yuanyuan, Bo Yuan, Zhichao Cao, Yi Yang, Chun He, Kevin C Chan, Shan Xiao, Haiwei Lin, Qi Fang, Gongyin Ye*, **Xinhai Ye***. Genomic signatures associated with the evolutionary loss of egg yolk in parasitoid wasps. ***Proceedings of the National Academy of Sciences***, 2025, 122(16), e2422292122. doi: 10.1073/pnas.2422292122
 2. **Ye Xinhai***, Yang Yi, Zhao Xianxin, Fang Qi, Ye Gongyin*. The state of parasitoid wasp genomics. ***Trends in Parasitology***, 2024, 40(10):914-929. doi: 10.1016/j.pt.2024.08.003
 3. **Ye Xinhai***, Yang Yi, Fang Qi, Ye Gongyin. Genomics of insect natural enemies in agroecosystems. ***Current Opinion in Insect Science***, 2024, in press. doi: 10.1016/j.cois.2024.101298
 4. **Ye Xinhai**, He Chun, Yang Yi, Sun Yu H., Xiong Shijiao, Chan Kevin C., Si Yuxuan, Xiao Shan, Zhao Xianxin, Lin Haiwei, Mei Yang, Yao Yufeng, Ye Gongyin*, Wu Fei*, Fang Qi*. Comprehensive isoform-level analysis reveals the contribution of alternative isoforms to venom evolution and repertoire diversity. ***Genome Research***, 2023, 33(9):1554-1567. doi: 10.1101/gr.277707.123
@@ -48,7 +48,7 @@ For more detailed information see my [google citations page](https://scholar.goo
 **All publications:**
 
 **2025**
-1. (N53)Zhao Xianxin, Liu Yuanyuan, Bo Yuan, Zhichao Cao, Yi Yang, Chun He, Kevin C Chan, Shan Xiao, Haiwei Lin, Qi Fang, Gongyin Ye*, ***Xinhai Ye***. Genomic signatures associated with the evolutionary loss of egg yolk in parasitoid wasps. ***Proceedings of the National Academy of Sciences***, 2025, 122(16), e2422292122. doi: 10.1073/pnas.2422292122
+1. (N53)Zhao Xianxin, Liu Yuanyuan, Bo Yuan, Zhichao Cao, Yi Yang, Chun He, Kevin C Chan, Shan Xiao, Haiwei Lin, Qi Fang, Gongyin Ye*, **Xinhai Ye***. Genomic signatures associated with the evolutionary loss of egg yolk in parasitoid wasps. ***Proceedings of the National Academy of Sciences***, 2025, 122(16), e2422292122. doi: 10.1073/pnas.2422292122
 2. (N52)Zhao Xianxin, Liu Yuanyuan, **Ye Xinhai**, Wang Fang, Fang Qi, Ye Gongyin*. Chromosome-level genome assembly of an endoparasitoid *Cotesia ruficrus*. ***Scientific Data***, 2025, 12, 508. doi: 10.1038/s41597-025-04837-9
 3. (N51)Lai Youpeng, Xiao Shan, Qin Minggang, **Ye Xinhai**, Wang Fang, Fang Qi*. Genome assembly of the grassland caterpillar *Gynaephora qinghaiensis*. ***Scientific Data***, 2025, 12, 158. doi: 10.1038/s41597-025-04466-2
 
